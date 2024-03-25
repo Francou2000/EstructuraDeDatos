@@ -252,7 +252,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141561536}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.61, y: -1.31, z: 0}
+  m_LocalPosition: {x: -3.13, y: -0.81, z: 0}
   m_LocalScale: {x: 1.0957, y: 1.9381, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -276,6 +276,9 @@ MonoBehaviour:
   _inputManager: {fileID: 141561543}
   isOnGround: 0
   _rb: {fileID: 141561538}
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!114 &141561542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -288,7 +291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 842af99065893e841b90a1e743133612, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 20
   jumpForce: 7
 --- !u!114 &141561543
 MonoBehaviour:
@@ -372,7 +375,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.43877357, g: 0.41745284, b: 0.5566038, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -513,7 +516,7 @@ GameObject:
   - component: {fileID: 687832780}
   - component: {fileID: 687832779}
   - component: {fileID: 687832781}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Platform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -624,7 +627,7 @@ GameObject:
   - component: {fileID: 1017421972}
   - component: {fileID: 1017421971}
   - component: {fileID: 1017421973}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -735,7 +738,7 @@ GameObject:
   - component: {fileID: 1144494851}
   - component: {fileID: 1144494850}
   - component: {fileID: 1144494852}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}

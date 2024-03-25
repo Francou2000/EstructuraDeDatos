@@ -21,6 +21,12 @@ public class Movement : MonoBehaviour
         return deltaMovement;
     }
 
+    public float VelX(float movHorizontal)
+    {
+        float velocity = movHorizontal * speed;
+        return velocity;
+    }
+
     public float UseJump()
     {
         return jumpForce;
