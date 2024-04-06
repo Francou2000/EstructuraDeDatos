@@ -7,10 +7,10 @@ public class Player : MonoBehaviour
     public Movement _movement;
     public Input_Manager _inputManager;
     public bool isOnGround;
-
     public Rigidbody2D _rb;
-
     public LayerMask groundMask;
+
+    private Weapon _weapon;
 
     void Start()
     {
@@ -20,6 +20,15 @@ public class Player : MonoBehaviour
     void Update()
     {
         _inputManager.InputUpdate();
+
+        if (_inputManager.Shoot)
+        {
+            _weapon.Shoot(transform.position, _inputManager.MovHorizontal);
+        }
+        if (_inputManager.Recharge)
+        {
+            _weapon.Recharge();
+        }
 
         //Set isOnGround
         RaycastHit2D hit = Physics2D.Raycast(transform.position, new Vector2(0, -1), 1, groundMask);

@@ -12,6 +12,8 @@ public class Input_Manager : MonoBehaviour
     public bool Jump => jump;
     private bool shoot = false;
     public bool Shoot => shoot;
+    private bool recharge = false;
+    public bool Recharge => recharge;
     private bool powerUp = false;
     public bool PowerUp => powerUp;
 
@@ -39,6 +41,14 @@ public class Input_Manager : MonoBehaviour
         else
         {
             shoot = false;
+        }
+        if (Input.GetKey(KeyCode.R)) // The player recharge with "R"
+        {
+            recharge = true;
+        }
+        else
+        {
+            recharge = false;
         }
 
         if (Input.GetKeyDown(KeyCode.Mouse1)) // The player uses the powerUP with "Mouse1" (right click)
