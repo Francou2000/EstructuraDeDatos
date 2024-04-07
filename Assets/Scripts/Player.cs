@@ -10,11 +10,13 @@ public class Player : MonoBehaviour
     public Rigidbody2D _rb;
     public LayerMask groundMask;
 
+    private Animator anim;
+
     private Weapon _weapon;
 
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -24,10 +26,22 @@ public class Player : MonoBehaviour
         if (_inputManager.Shoot)
         {
             _weapon.Shoot(transform.position, _inputManager.MovHorizontal);
+            anim.SetTrigger("Shoot");
         }
         if (_inputManager.Recharge)
         {
             _weapon.Recharge();
+        }
+
+        var escalaX = transform.localScale.x;
+        var escalaY = transform.localScale.y;
+        if (_inputManager.MovHorizontal < 0 && escalaX > 0)
+        {
+            transform.localScale = new Vector3(-escalaX, escalaY, 1);
+        }
+        else if (_inputManager.MovHorizontal > 0 && escalaX < 0)
+        {
+            transform.localScale = new Vector3(-escalaX, escalaY, 1);
         }
 
         //Set isOnGround
@@ -36,6 +50,7 @@ public class Player : MonoBehaviour
         if (hit)
         {
             isOnGround = true;
+            anim.SetBool("isJumping", false);
         }
         else
         {
@@ -50,15 +65,18 @@ public class Player : MonoBehaviour
         if (_inputManager.Jump && isOnGround)
         {
            _rb.AddForce(new Vector2(0, _movement.JumpForce), ForceMode2D.Impulse);
+            anim.SetBool("isJumping", true);
         }
 
         if (_inputManager.MovHorizontal != 0)
         {
             _rb.velocity = new Vector2(_movement.MaxSpeed * _inputManager.MovHorizontal, _rb.velocity.y);
+            anim.SetBool("isRunning", true);
         }
         else
         {
             _rb.velocity = new Vector2(0, _rb.velocity.y);
+            anim.SetBool("isRunning", false);
         }
 
         
