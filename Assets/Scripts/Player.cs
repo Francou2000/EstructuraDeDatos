@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -17,6 +18,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        _weapon = GetComponent<Weapon>();
     }
 
     void Update()
@@ -25,7 +27,7 @@ public class Player : MonoBehaviour
 
         if (_inputManager.Shoot)
         {
-            _weapon.Shoot(transform.position, _inputManager.MovHorizontal);
+            _weapon.Shoot(transform.position, transform.localScale.x/Mathf.Abs(transform.localScale.x));
             anim.SetTrigger("Shoot");
         }
         if (_inputManager.Recharge)

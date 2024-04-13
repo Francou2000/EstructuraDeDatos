@@ -4,15 +4,37 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private float speed;
+    [SerializeField] private int damage;
+
+    private float deathTime;
+    [SerializeField] private float deathTimer;
+
+    private void Start()
     {
-        
+        deathTime = 0;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        deathTime += Time.deltaTime;
+        if (deathTime > deathTimer)
+        {
+            Destroy(gameObject);
+        }
+        Movement();
+
+    }
+
+    void Movement()
+    {
+        var dt = Time.deltaTime;
+        transform.position = new Vector2(transform.position.x + speed * transform.localScale.x * dt, transform.position.y);
+    }
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        //Lo que sea que ocurra
+        Destroy(gameObject);
     }
 }
