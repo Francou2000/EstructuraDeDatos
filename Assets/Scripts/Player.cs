@@ -53,6 +53,7 @@ public class Player : MonoBehaviour
         {
             isOnGround = true;
             anim.SetBool("isJumping", false);
+            anim.SetTrigger("IsOnGround");
         }
         else
         {
@@ -68,6 +69,10 @@ public class Player : MonoBehaviour
         {
            _rb.AddForce(new Vector2(0, _movement.JumpForce), ForceMode2D.Impulse);
             anim.SetBool("isJumping", true);
+            if (_rb.velocity.y < 0)
+            {
+                anim.SetTrigger("Fall");
+            }
         }
 
         if (_inputManager.MovHorizontal != 0)
@@ -79,6 +84,10 @@ public class Player : MonoBehaviour
         {
             _rb.velocity = new Vector2(0, _rb.velocity.y);
             anim.SetBool("isRunning", false);
+            if (_rb.velocity.y < 0)
+            {
+                anim.SetTrigger("Fall");
+            }
         }
 
         
