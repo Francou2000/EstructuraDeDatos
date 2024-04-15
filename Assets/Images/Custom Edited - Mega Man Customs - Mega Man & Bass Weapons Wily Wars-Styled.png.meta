@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: 6d75ffdf4b45b3e4f80d865f29644207
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afdf36362dbd7140a5af958446a6bae
+      internalID: -1362706650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad88d67a5c5df46b87d6f3fa2a3d16
+      internalID: 108445213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138ca64553d6e843b1c0701549fa313
+      internalID: 1820032783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 336
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e94dc2f1abd924988304a4d58bd380
+      internalID: -1122447681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 336
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa300fe162f96b545a42c21dd4fb0b28
+      internalID: -177071088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 338
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc70292ea0c7942a15e2114dd0329b
+      internalID: -385499686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 336
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf118747a738c4b9f2406cd592cb93
+      internalID: 1449546948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 340
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d1735f7f31654f82dc68729a45834
+      internalID: 967104828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 336
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a278e698d365448983d271e45426b
+      internalID: 301418431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e70c7b5709b9c4eac18265a095a127
+      internalID: 1773186498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac745b63856f744ebfa39ca286391bc
+      internalID: 755248797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e966cf9b093aac4aac52923bf763799
+      internalID: 1320399634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 336
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdda77f5eb4e814ba2c1d347ba0a395
+      internalID: 587155098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 336
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e08b1c5b76ce418a94f249ee3cbd0
+      internalID: 1271444867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 344
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1dc033afc57454aab3bafe6ea6cbc7
+      internalID: 246852485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 336
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db8f8bd85454143ba585c178658780
+      internalID: -1767066814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 346
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718117c9a2e84046bb5fce0e5b07fcc
+      internalID: -1542374645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728dcdf92e084b42864afea755371ee
+      internalID: -2120773360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8fa4be0abc4ca45b049b73e8beae1d
+      internalID: 1068169969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f66edc5dcfd244b69d64a73232575
+      internalID: -880700125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d57eeec5fe7c06409d72ac36f2292ac
+      internalID: 944840337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 288
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cb57d8ce8d7e64a839dddf8e8689c4
+      internalID: 1456563312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 288
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b3011063e9eb40b957d84ea7afdfb
+      internalID: -1616843762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 301
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b1d92c9990e04da05a13b60e9fcbe
+      internalID: 1297178678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 289
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb0d7afcf4df314084775cfd73618a7
+      internalID: 505656608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12891923902f4634aa7b0a7595d9f95d
+      internalID: -1303343297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837e8257a428a74892ec3dfcc5b7c68
+      internalID: 474740173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 288
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5619489ba034c44ab8f3379fe8c2028
+      internalID: 199803256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 288
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b7de973aadc1498e18240ace57e74
+      internalID: -893396877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12a76b835ce1d46af4ecc314ee8952
+      internalID: -423507359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 288
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b050a23b9b11a4ea427be39e9ca0c7
+      internalID: -2001219362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 299
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde34c2a593f225498350772bc4f40da
+      internalID: -446460745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 292
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ef9ef363161046ad3910c8fa57139
+      internalID: -366115537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82556de725e9d74448af0ee5114fbb92
+      internalID: 1717401615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_34
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 304
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ef7aaa8e97ab4c87598ee7a8ccc31
+      internalID: 1451859146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 293
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf78919bb913754986b04c4c8f1e08f
+      internalID: 1835944849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfba66537b71b74bbcb63f59f07040f
+      internalID: 1620040446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c807eaff42304ca1a6a22dfc81ca9
+      internalID: -1458958539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 240
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2ffc1ac223a24dbd4da7c9872facb
+      internalID: -519214269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7d8e9db99443458ea57095b1f79ec
+      internalID: -1177555815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 254
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23ae8eb017d094db6c5a32683084e8
+      internalID: 498363256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 241
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d48732bb2461547bb6049da981579b
+      internalID: 1828801929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 242
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac151ddd1d0cae543a312651d85dca72
+      internalID: -895829559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 251
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c314e0ea001c6f44a2cac886d8cdac2
+      internalID: -278534286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_44
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09b765411a7634daf769f8101fd934
+      internalID: -762601261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf8e7ad62dc2841ae57fed31b4caf5
+      internalID: -2039077293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf0bf5dfecb3e43a2b86074de6489c
+      internalID: -849270705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 192
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2db3bf51e90741b981f0548f806e2
+      internalID: 210894514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ba62383c4c8c4a8a1a5a67b863d1f
+      internalID: -569102170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70fc28d84766c4884062e5fd1254fc
+      internalID: 866742236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975287d208cd36438b47f07e46c30fa
+      internalID: -1110143868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af56b4fa6a55f4f9bf4809976b6d96
+      internalID: 2041304519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71275bd9459ad4e46a9094217060678f
+      internalID: -1772630442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546aa56998d78941ba0f210925423a6
+      internalID: 702584263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d66e4300471640be9f3db2906908a
+      internalID: 1655545549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df800c894282b44bab43b4f1f28cd6
+      internalID: -829870397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef4fd50b04f594da0153227fabdbf7
+      internalID: -2132492143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ac0ec029cffe4d8fb1f835b474872
+      internalID: 1169812463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44888df2dcb95484083b63f32f1f8fdb
+      internalID: 1613570643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52d247b19cb2e468b5768c4b81d99d
+      internalID: -270159272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dfc2c961a506743999e422166459d1
+      internalID: -1563299464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5a2d8147355814abb5ee7fad46a7bf
+      internalID: 1075071629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e99663533cdac409c6e3ea596b19f0
+      internalID: 328051750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 193
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01164ca14ef4a4991fa5601db15785
+      internalID: 171606089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb500cd31f592f429196ef6ac90ace3
+      internalID: 209780252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_65
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e7fb5e4a3dc34ebcae04c8e73a69c
+      internalID: 977984630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6367c8f0eb0a41a6a0c37934fd7b2
+      internalID: 295913069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 171
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7795fd7288cd943a0eb42c861b9782
+      internalID: 460673310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536d3e0ffac6c34e96d8cb20b0087cb
+      internalID: -1006349416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 174
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4442c73a9d4c4468df705270fb5ff6
+      internalID: 86885382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_70
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 147
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57aa30cf5b27354cbda6c145db0e54b
+      internalID: -1021998864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 144
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d83f8c81ea2c41b387d699d918435
+      internalID: 1765340181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 151
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0dd0090255493429c18a24d1109436
+      internalID: -241490755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_73
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 173
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54adb8dcf797a47bf858ca488ee724
+      internalID: -1848984090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_74
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dddfd0ab84ec34fa002317b378fe8b
+      internalID: -1727222190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fa5d7ff5810c4b83df4d0a8c99637
+      internalID: 965708051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_76
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46619a9258c4d664098483d7b0f851c6
+      internalID: -1078054046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 163
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0889e1fbfe004d74aad560f9ceca8e12
+      internalID: 1022884761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02d69964895f746bb78fc6b73cbf5d
+      internalID: 1094950900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 160
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0dc98f9c81cde4b8e2628267c88f36
+      internalID: -1822885024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f2cca0d24fb7a488632d88702215f9
+      internalID: -178892598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_81
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c41f160e528f2499f821d1ef39b27d
+      internalID: -2026424266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ad564a4f940464880b0292f5c46ea2
+      internalID: -1889356065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 157
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e738e82ce9b4a341b6b2a4d2e37a8f2
+      internalID: 1916046064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7fbdd941d396f49a857ed011f42b3b
+      internalID: -900806657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0917e7fe71b8d647b7adcd490d3300c
+      internalID: 605174367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_86
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 147
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382aa2fa03f3e54e8f9ec2de089c6ab
+      internalID: -1936220244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825500bb85c3d914089c04cc46045d97
+      internalID: 1980051764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a37ce084d744d445b89bbcd5cf88739
+      internalID: -1654444451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b3e4ba27a026468ca31473b4a1924
+      internalID: 1287248812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f12f5069d978944c86d5ab6cc151349
+      internalID: 2011845085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 114
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f0bec845c1464cb82450d7d4953fc
+      internalID: -826790862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f825563a0f52de4fa0a358aa57ca00c
+      internalID: 2034499296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a81167172fe34298fb0961a2f2156
+      internalID: 2097853283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 120
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f235793c42072cf489356bfdd8dd6078
+      internalID: 28935466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_95
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 129
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b2cb95a200bae47b30a670b9ff012e
+      internalID: -716594455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 116
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750206227136cb458d3e4caf572567b
+      internalID: -1064339886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171181513b74b5e4896d94a83054c3ef
+      internalID: -1020189739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_98
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 117
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11c40d9c9aab6448d2639d8cca0228
+      internalID: -2077219779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 117
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453c1d87301c1e43a9806eae87e6d1d
+      internalID: -297368619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac97727090ac442a4ff28f760c5b95
+      internalID: -1812277679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a03fd245dd5a4b837f97bddeb6085
+      internalID: 1916322192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9901f0086d24ed43a756e578b0ab68b
+      internalID: -645511852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab8d3df770dbc4eae8228613d38214
+      internalID: -1830346221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e79a019bfbfa34e9a0d1da505adde5
+      internalID: -1904502309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_105
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 86
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed716025b0a4a941b036cd552d6556e
+      internalID: -2047759057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 84
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e43d7f9951bfdb4ab63928ded7cb150
+      internalID: -1798112349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18849cc123ef6b41a6b1a61e6130914
+      internalID: -724943243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 86
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4516540daf26249841d90c0c5c82cb
+      internalID: -1261430730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_109
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1cf8071baaa14c8ee0e757bb0d704
+      internalID: 346508015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_110
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07588fb8c8e5ad244ae0a4bfeb953277
+      internalID: -1980714442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d0c63e55b31443bf7be5a90687c33
+      internalID: 1262833853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a7c48f0abb154388c926cef39e465
+      internalID: 1428936613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_113
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 52
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc752ee139ffae1409f9129ab0821fd8
+      internalID: -677974479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_114
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bff044d32638324580c6d48327086fc
+      internalID: 1279977701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851690e73df3b648b14be1fbe17e064
+      internalID: -976051891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 49
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e08cf421a2934ea258910c69a50fb
+      internalID: -926597471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b808860aeb719e4f83ec6a120a50ced
+      internalID: -1277634474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_118
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 58
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dae6db65cb32b41993b9fccf90712c
+      internalID: -1538526291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_119
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e0a8a7f1844d4ca2301f5a7673fcd
+      internalID: 1960595424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982820bf98d0c547969bafc644db840
+      internalID: -679170863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_121
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadb3f3774bf4a4bb432b697b6482e3
+      internalID: 370890295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ce43a46e6b484c9d88de170685a57
+      internalID: 1361044839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_123
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f283a0eeec5843aecad91591f454b
+      internalID: -173805981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_124
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520bf4d2d1715048b6dd21bc8fe3819
+      internalID: 981717524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_125
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01a2016291f9b4eb471704788f12f8
+      internalID: 365353196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bd45d4c15e824ca13a41c323403c8
+      internalID: 310373279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e365611807a0364b8f23e8397b1081d
+      internalID: 320361809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_128
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88848b2491270f04a836b3a313a56c12
+      internalID: -1716870790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_129
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308dd51906168c748b7e35c1f4045714
+      internalID: -1791772664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_0: -1362706650
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_1: 108445213
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_10: 755248797
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_100: -1812277679
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_101: 1916322192
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_102: -645511852
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_103: -1830346221
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_104: -1904502309
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_105: -2047759057
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_106: -1798112349
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_107: -724943243
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_108: -1261430730
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_109: 346508015
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_11: 1320399634
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_110: -1980714442
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_111: 1262833853
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_112: 1428936613
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_113: -677974479
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_114: 1279977701
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_115: -976051891
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_116: -926597471
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_117: -1277634474
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_118: -1538526291
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_119: 1960595424
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_12: 587155098
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_120: -679170863
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_121: 370890295
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_122: 1361044839
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_123: -173805981
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_124: 981717524
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_125: 365353196
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_126: 310373279
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_127: 320361809
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_128: -1716870790
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_129: -1791772664
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_13: 1271444867
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_14: 246852485
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_15: -1767066814
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_16: -1542374645
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_17: -2120773360
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_18: 1068169969
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_19: -880700125
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_2: 1820032783
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_20: 944840337
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_21: 1456563312
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_22: -1616843762
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_23: 1297178678
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_24: 505656608
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_25: -1303343297
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_26: 474740173
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_27: 199803256
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_28: -893396877
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_29: -423507359
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_3: -1122447681
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_30: -2001219362
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_31: -446460745
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_32: -366115537
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_33: 1717401615
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_34: 1451859146
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_35: 1835944849
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_36: 1620040446
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_37: -1458958539
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_38: -519214269
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_39: -1177555815
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_4: -177071088
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_40: 498363256
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_41: 1828801929
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_42: -895829559
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_43: -278534286
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_44: -762601261
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_45: -2039077293
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_46: -849270705
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_47: 210894514
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_48: -569102170
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_49: 866742236
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_5: -385499686
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_50: -1110143868
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_51: 2041304519
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_52: -1772630442
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_53: 702584263
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_54: 1655545549
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_55: -829870397
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_56: -2132492143
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_57: 1169812463
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_58: 1613570643
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_59: -270159272
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_6: 1449546948
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_60: -1563299464
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_61: 1075071629
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_62: 328051750
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_63: 171606089
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_64: 209780252
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_65: 977984630
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_66: 295913069
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_67: 460673310
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_68: -1006349416
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_69: 86885382
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_7: 967104828
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_70: -1021998864
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_71: 1765340181
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_72: -241490755
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_73: -1848984090
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_74: -1727222190
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_75: 965708051
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_76: -1078054046
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_77: 1022884761
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_78: 1094950900
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_79: -1822885024
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_8: 301418431
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_80: -178892598
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_81: -2026424266
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_82: -1889356065
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_83: 1916046064
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_84: -900806657
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_85: 605174367
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_86: -1936220244
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_87: 1980051764
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_88: -1654444451
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_89: 1287248812
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_9: 1773186498
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_90: 2011845085
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_91: -826790862
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_92: 2034499296
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_93: 2097853283
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_94: 28935466
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_95: -716594455
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_96: -1064339886
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_97: -1020189739
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_98: -2077219779
+      Custom Edited - Mega Man Customs - Mega Man & Bass Weapons Wily Wars-Styled_99: -297368619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
