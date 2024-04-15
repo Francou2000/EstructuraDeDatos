@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UIElements;
+using UnityEngine.UI;
 
 public class Weapon : MonoBehaviour
 {
@@ -13,11 +13,15 @@ public class Weapon : MonoBehaviour
     private float time;
     [SerializeField] private float timer;
 
+    public Image[] bulletImages;
+
     void Start()
     {
         _magazine = new Pila(magazineCapacity);
         Recharge();
         time = 0;
+
+        UpdateBulletUI();
     }
 
     private void Update()
@@ -37,6 +41,8 @@ public class Weapon : MonoBehaviour
             //Instanciente
 
             time = 0;
+
+            UpdateBulletUI();
         }
     }
 
@@ -55,6 +61,23 @@ public class Weapon : MonoBehaviour
         for (int i = 1; i < magazineCapacity; i++)
         {
             _magazine.Push(originalBullet);
+        }
+
+        UpdateBulletUI();
+    }
+
+    void UpdateBulletUI()
+    {
+        for (int i = 0; i < bulletImages.Length; i++)
+        {
+            if (_magazine.index > i)
+            {
+                bulletImages[i].enabled = true;
+            }
+            else
+            {
+                bulletImages[i].enabled = false;
+            }
         }
     }
 }
