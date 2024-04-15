@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 public class Weapon : MonoBehaviour
 {
-    private Pila _magazine;
+    public Pila _magazine;
     [SerializeField] private int magazineCapacity;
     [SerializeField] private GameObject originalBullet;
     [SerializeField] private GameObject strongBullet;
@@ -24,6 +24,7 @@ public class Weapon : MonoBehaviour
     {
         time += Time.deltaTime;
     }
+
     public void Shoot(Vector2 position, float direction)
     {
         if (time > timer)
@@ -37,7 +38,6 @@ public class Weapon : MonoBehaviour
 
             time = 0;
         }
-        
     }
 
     public void Recharge()
@@ -56,6 +56,5 @@ public class Weapon : MonoBehaviour
         {
             _magazine.Push(originalBullet);
         }
-        
     }
 }
