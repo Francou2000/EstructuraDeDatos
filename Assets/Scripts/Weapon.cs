@@ -17,7 +17,6 @@ public class Weapon : MonoBehaviour
     public UnityEvent shoot;
     public UnityEvent recharge;
 
-    public Image[] bulletImages;
 
     void Start()
     {
