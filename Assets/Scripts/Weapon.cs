@@ -31,7 +31,7 @@ public class Weapon : MonoBehaviour
         time += Time.deltaTime;
     }
 
-    public void Shoot(Vector2 position, float direction)
+    public void Shoot(Vector2 position, float direction, Animator anim)
     {
         if (time > timer)
         {
@@ -41,6 +41,8 @@ public class Weapon : MonoBehaviour
             bullet = Instantiate(bullet, position, Quaternion.identity);
             bullet.transform.localScale = new Vector3(direction, 1, 1);
             //Instanciente
+
+            anim.SetTrigger("Shoot");
 
             time = 0;
 

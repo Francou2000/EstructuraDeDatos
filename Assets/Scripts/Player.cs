@@ -27,8 +27,8 @@ public class Player : MonoBehaviour
 
         if (_inputManager.Shoot)
         {
-            _weapon.Shoot(transform.position, transform.localScale.x/Mathf.Abs(transform.localScale.x));
-            anim.SetTrigger("Shoot");
+            _weapon.Shoot(transform.position, transform.localScale.x/Mathf.Abs(transform.localScale.x), anim);
+            
         }
         if (_inputManager.Recharge)
         {
@@ -69,10 +69,12 @@ public class Player : MonoBehaviour
         {
            _rb.AddForce(new Vector2(0, _movement.JumpForce), ForceMode2D.Impulse);
             anim.SetBool("isJumping", true);
-            if (_rb.velocity.y < 0)
-            {
-                anim.SetTrigger("Fall");
-            }
+            
+        }
+
+        if (!isOnGround && _rb.velocity.y < 0)
+        {
+            anim.SetTrigger("Fall");
         }
 
         if (_inputManager.MovHorizontal != 0)
@@ -84,11 +86,9 @@ public class Player : MonoBehaviour
         {
             _rb.velocity = new Vector2(0, _rb.velocity.y);
             anim.SetBool("isRunning", false);
-            if (_rb.velocity.y < 0)
-            {
-                anim.SetTrigger("Fall");
-            }
+            
         }
+
 
         
     }
