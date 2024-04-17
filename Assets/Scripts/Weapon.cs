@@ -10,6 +10,7 @@ public class Weapon : MonoBehaviour
     [SerializeField] private int magazineCapacity;
     [SerializeField] private GameObject originalBullet;
     [SerializeField] private GameObject strongBullet;
+    [SerializeField] private Transform shootPoint;
 
     private float time;
     [SerializeField] private float timer;
@@ -31,14 +32,14 @@ public class Weapon : MonoBehaviour
         time += Time.deltaTime;
     }
 
-    public void Shoot(Vector2 position, float direction, Animator anim)
+    public void Shoot(float direction, Animator anim)
     {
         if (time > timer)
         {
             if (_magazine.IsEmpty()) return;
             //SONIDITO DE QUE ESTÁ VACIA
             GameObject bullet = _magazine.Pop();
-            bullet = Instantiate(bullet, position, Quaternion.identity);
+            bullet = Instantiate(bullet, shootPoint.position, Quaternion.identity);
             bullet.transform.localScale = new Vector3(direction, 1, 1);
             //Instanciente
 

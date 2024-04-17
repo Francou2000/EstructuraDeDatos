@@ -27,7 +27,7 @@ public class Player : MonoBehaviour
 
         if (_inputManager.Shoot)
         {
-            _weapon.Shoot(transform.position, transform.localScale.x/Mathf.Abs(transform.localScale.x), anim);
+            _weapon.Shoot(transform.localScale.x/Mathf.Abs(transform.localScale.x), anim);
             
         }
         if (_inputManager.Recharge)
