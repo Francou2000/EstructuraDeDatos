@@ -5,13 +5,13 @@ using UnityEngine;
 public class EnemyHealth : MonoBehaviour
 {
     public float currentHealth;
-    public float maxHealth = 100f;
+    public float maxHealth = 10f;
 
     private Animator animator;
 
     private void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = GetComponentInChildren<Animator>();
 
         currentHealth = maxHealth;
     }
@@ -24,12 +24,24 @@ public class EnemyHealth : MonoBehaviour
         }
     }
 
+    public void TakeDamage()
+    {
+        StartCoroutine(TakeHitRoutine());
+    }
+
     private IEnumerator DeathRoutine()
     {
         animator.SetTrigger("Death");
 
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
 
-        Destroy(this.gameObject);
+        Destroy(gameObject);
+    }
+
+    private IEnumerator TakeHitRoutine()
+    {
+        animator.SetTrigger("TakeHit");
+
+        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
     }
 }

@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
@@ -32,10 +31,13 @@ public class Bullet : MonoBehaviour
         transform.position = new Vector2(transform.position.x + speed * transform.localScale.x * dt, transform.position.y);
     }
 
-    public void OnCollisionEnter2D(Collision2D collision)
-    {
+    public void OnTriggerEnter2D(Collider2D collision)
+    {       
         if (collision.transform.tag == "Enemy")
         {
+            collision.transform.GetComponent<EnemyHealth>().currentHealth -= damage;
+            collision.transform.GetComponent<EnemyHealth>().TakeDamage();
+
             Destroy(gameObject);
         }
     }

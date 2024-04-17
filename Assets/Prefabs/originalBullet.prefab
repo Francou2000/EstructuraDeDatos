@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6971436996940878820}
   - component: {fileID: -7696589718754967096}
+  - component: {fileID: 8704449396974616588}
   m_Layer: 0
   m_Name: originalBullet
   m_TagString: Untagged
@@ -46,8 +47,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  damage: 0
+  damage: 1
   deathTimer: 2
+--- !u!58 &8704449396974616588
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2397239469874816780}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0023406893, y: 0.0070220083}
+  serializedVersion: 2
+  m_Radius: 0.21911998
 --- !u!1 &8714224418132260975
 GameObject:
   m_ObjectHideFlags: 0
