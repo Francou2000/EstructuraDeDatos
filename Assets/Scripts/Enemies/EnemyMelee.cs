@@ -17,6 +17,8 @@ public class EnemyMelee : MonoBehaviour
     private Animator animator;
     private PlayerState health;
 
+    [SerializeField] private float speedEnemy = 3f;
+
     public void Start()
     {
         animator = GetComponent<Animator>();
@@ -32,7 +34,7 @@ public class EnemyMelee : MonoBehaviour
             {
                 CDTimer = 0;
 
-                animator.SetTrigger("Attack");
+                StartCoroutine(AttackRoutine());    
             }
         }
     }
@@ -63,5 +65,16 @@ public class EnemyMelee : MonoBehaviour
         {
             health.currentHealth -= damage;
         }
+    }
+
+    private IEnumerator AttackRoutine()
+    {
+        animator.SetTrigger("Attack");
+
+        GetComponentInParent<EnemyPatrol>().speed = 0;
+
+        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
+
+        GetComponentInParent<EnemyPatrol>().speed = speedEnemy;
     }
 }
