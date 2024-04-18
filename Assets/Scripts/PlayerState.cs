@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
 public class PlayerState : MonoBehaviour
@@ -9,6 +10,8 @@ public class PlayerState : MonoBehaviour
 
     public float currentHealth;
     public float maxHealth = 100;
+
+    public UnityEvent changeHealth;
 
     private void Awake()
     {
@@ -25,13 +28,31 @@ public class PlayerState : MonoBehaviour
     private void Start()
     {
         currentHealth = maxHealth;
+        changeHealth = new UnityEvent();
     }
 
-    private void Update()
+    public void IsDead()
     {
         if (currentHealth <= 0)
         {
             SceneManager.LoadScene("LoseScene");
         }
+    }
+    public void TakeDamage(int damage)
+    {
+        currentHealth -= damage;
+        changeHealth.Invoke();
+        IsDead();
+
+    }
+
+    public void HealDamage(int healedDamage)
+    {
+        currentHealth += healedDamage;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+        changeHealth.Invoke();
     }
 }

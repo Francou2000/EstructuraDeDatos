@@ -17,9 +17,10 @@ public class HealthBar : MonoBehaviour
     {
         slider = GetComponent<Slider>();
         player = PlayerState.Instance;
+        player.changeHealth.AddListener(ChangeHealth);
     }
 
-    void Update()
+    void ChangeHealth()
     {
         currentHealth = player.currentHealth;
         maxHealth = player.maxHealth;
