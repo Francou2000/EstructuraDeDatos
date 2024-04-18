@@ -36,7 +36,7 @@ public class Cola
         {
             for( int i = 0; i < index; i++)
             {
-                items[i + 1] = items[i];
+                items[index - i] = items[index - 1 - i];
             }
             items[0] = newItem;
             index++;

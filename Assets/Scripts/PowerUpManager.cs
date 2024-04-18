@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PowerUpManager : MonoBehaviour
@@ -8,6 +9,8 @@ public class PowerUpManager : MonoBehaviour
     private PlayerState _playerState;
     [SerializeField] private GameObject misil;
     [SerializeField] private Transform shootPoint;
+    [SerializeField] private GameObject invencibleAura;
+    [SerializeField] private GameObject healAura;
 
     private float time;
     [SerializeField] private float timer;
@@ -26,30 +29,39 @@ public class PowerUpManager : MonoBehaviour
         if (time > timer)
         {
             _playerState.isInvencible = false;
+            invencibleAura.SetActive(false);
+            healAura.SetActive(false);
         }
 
     }
 
     public void UsePowerUp()
     {
-        PowerUp powerUp = powerUpGotten.Pop().GetComponent<PowerUp>();
-        switch (powerUp.powerUpType)
+        if (time > timer)
         {
-            case PowerUps.Misil:
-                GameObject newMisil = Instantiate(misil, shootPoint.position, Quaternion.identity);
-                misil.transform.localScale = new Vector3(transform.localScale.x / Mathf.Abs(transform.localScale.x), 1, 1);
-                break;
-            case PowerUps.Invencible:
-                _playerState.isInvencible = true;
-                break;
-            case PowerUps.Heal:
-                _playerState.HealDamage(30);
-                break;    
-            default: 
-                break;
+            PowerUp powerUp = powerUpGotten.Pop().GetComponent<PowerUp>();
+            switch (powerUp.powerUpType)
+            {
+                case PowerUps.Misil:
+                    GameObject newMisil = Instantiate(misil, shootPoint.position, Quaternion.identity);
+                    newMisil.transform.localScale = new Vector3(newMisil.transform.localScale.x * transform.localScale.x / Mathf.Abs(transform.localScale.x), newMisil.transform.localScale.y, 1);
+                    break;
+                case PowerUps.Invencible:
+                    _playerState.isInvencible = true;
+                    invencibleAura.SetActive(true);
+                    break;
+                case PowerUps.Heal:
+                    healAura.SetActive(true);
+                    _playerState.HealDamage(30);
+                    break;    
+                default: 
+                    break;
 
+            }
+            time = timer - powerUp.timer;
+            Destroy(powerUp.gameObject);
         }
-        time = timer - powerUp.timer;
+        
 
     }
 
@@ -63,6 +75,7 @@ public class PowerUpManager : MonoBehaviour
         if (collision.GetComponent<PowerUp>())
         {
             GetNewPowerUp(collision.gameObject);
+            collision.gameObject.SetActive(false);
         }
     }
 
