@@ -13,6 +13,8 @@ public class PlayerState : MonoBehaviour
 
     public UnityEvent changeHealth;
 
+    public bool isInvencible;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -29,6 +31,7 @@ public class PlayerState : MonoBehaviour
     {
         currentHealth = maxHealth;
         changeHealth = new UnityEvent();
+        isInvencible = false;
     }
 
     public void IsDead()
@@ -40,6 +43,10 @@ public class PlayerState : MonoBehaviour
     }
     public void TakeDamage(int damage)
     {
+        if (isInvencible)
+        {
+            damage = 0;
+        }
         currentHealth -= damage;
         changeHealth.Invoke();
         IsDead();

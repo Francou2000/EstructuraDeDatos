@@ -14,11 +14,14 @@ public class Player : MonoBehaviour
     private Animator anim;
 
     private Weapon _weapon;
+    private PowerUpManager _powerUpManager;
+
 
     void Start()
     {
         anim = GetComponent<Animator>();
         _weapon = GetComponent<Weapon>();
+        _powerUpManager = GetComponent<PowerUpManager>();
     }
 
     void Update()
@@ -33,6 +36,11 @@ public class Player : MonoBehaviour
         if (_inputManager.Recharge)
         {
             _weapon.Recharge();
+        }
+
+        if (_inputManager.PowerUp)
+        {
+            _powerUpManager.UsePowerUp();
         }
 
         var escalaX = transform.localScale.x;
