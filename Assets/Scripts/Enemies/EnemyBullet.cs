@@ -23,20 +23,19 @@ public class EnemyBullet : MonoBehaviour
             Destroy(gameObject);
         }
         Movement();
-
     }
 
     void Movement()
     {
         var dt = Time.deltaTime;
-        transform.position = new Vector2(-transform.position.x + speed * transform.localScale.x * dt, transform.position.y);
+        transform.position = new Vector2(transform.position.x - speed * transform.localScale.x * dt, transform.position.y);
     }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.transform.tag == "Player")
         {
-            collision.transform.GetComponent<PlayerState>().currentHealth -= damage;
+            collision.transform.GetComponent<PlayerState>().TakeDamage(damage);
 
             Destroy(gameObject);
         }

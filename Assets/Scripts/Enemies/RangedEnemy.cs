@@ -7,7 +7,6 @@ public class RangedEnemy : MonoBehaviour
 {
     public float attackCD;
     private float CDTimer = Mathf.Infinity;
-    public int damage;
     public float range;
 
     public BoxCollider2D boxCollider;
@@ -19,7 +18,6 @@ public class RangedEnemy : MonoBehaviour
     public LayerMask playerMask;
 
     private Animator animator;
-    private PlayerState health;
 
     public void Start()
     {
@@ -46,10 +44,6 @@ public class RangedEnemy : MonoBehaviour
         RaycastHit2D hit = Physics2D.BoxCast(boxCollider.bounds.center + transform.right * range * transform.localScale.x * colliderDistance,
             new Vector3(boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z), 0, Vector2.left, 0, playerMask);
 
-        if (hit.collider != null)
-        {
-            health = hit.transform.GetComponent<PlayerState>();
-        }
 
         return hit.collider != null;
     }
