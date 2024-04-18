@@ -35,7 +35,7 @@ public class EnemyHealth : MonoBehaviour
 
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
 
-        Destroy(gameObject);
+        Destroy(transform.parent.gameObject);
     }
 
     private IEnumerator TakeHitRoutine()

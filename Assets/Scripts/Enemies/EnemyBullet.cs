@@ -37,7 +37,7 @@ public class EnemyBullet : MonoBehaviour
         {
             collision.transform.GetComponent<PlayerState>().TakeDamage(damage);
 
-            Destroy(transform.parent.gameObject);
+            Destroy(gameObject);
         }
     }
 }
