@@ -22,6 +22,7 @@ public class RangedEnemy : MonoBehaviour
     public void Start()
     {
         animator = GetComponent<Animator>();
+        EnemyCounter.Instance.enemiesOnLevelLeft ++;
     }
 
     public void Update()
@@ -52,7 +53,7 @@ public class RangedEnemy : MonoBehaviour
     {
         Gizmos.color = Color.green;
         Gizmos.DrawWireCube(boxCollider.bounds.center + transform.right * range * transform.localScale.x * colliderDistance,
-            new Vector3(boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z));
+        new Vector3(boxCollider.bounds.size.x * range, boxCollider.bounds.size.y, boxCollider.bounds.size.z));
     }
 
     private void Shoot()

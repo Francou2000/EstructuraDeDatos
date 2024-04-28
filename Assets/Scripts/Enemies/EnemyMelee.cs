@@ -23,6 +23,7 @@ public class EnemyMelee : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         health = PlayerState.Instance;
+        EnemyCounter.Instance.enemiesOnLevelLeft ++;
     }
 
     public void Update()

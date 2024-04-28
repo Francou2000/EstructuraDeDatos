@@ -20,8 +20,13 @@ public class EnemyHealth : MonoBehaviour
     {
         if (currentHealth <= 0)
         {
-            StartCoroutine(DeathRoutine()); 
+           Death();
         }
+    }
+
+    private void Death()
+    {
+        StartCoroutine(DeathRoutine());
     }
 
     public void TakeDamage()
@@ -35,7 +40,9 @@ public class EnemyHealth : MonoBehaviour
 
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
 
-        Destroy(transform.parent.gameObject);
+        EnemyCounter.Instance.enemiesOnLevelLeft--;
+
+        Destroy(gameObject);
     }
 
     private IEnumerator TakeHitRoutine()
