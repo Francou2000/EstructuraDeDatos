@@ -58,6 +58,7 @@ public class PowerUpManager : MonoBehaviour
                     break;
 
             }
+            PowerUp_UIControl.Instance.UsePowerUp();
             time = timer - powerUp.timer;
             Destroy(powerUp.gameObject);
         }
@@ -68,6 +69,21 @@ public class PowerUpManager : MonoBehaviour
     public void GetNewPowerUp(GameObject newPowerUp)
     {
         powerUpGotten.Push(newPowerUp);
+        switch (newPowerUp.GetComponent<PowerUp>().powerUpType)
+        {
+            case PowerUps.Misil:
+                PowerUp_UIControl.Instance.AddPowerUp(2);
+                break;
+            case PowerUps.Invencible:
+                PowerUp_UIControl.Instance.AddPowerUp(1);
+                break;
+            case PowerUps.Heal:
+                PowerUp_UIControl.Instance.AddPowerUp(0);
+                break;
+            default:
+                break;
+
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

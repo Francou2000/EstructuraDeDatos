@@ -27,6 +27,7 @@ public class EnemyHealth : MonoBehaviour
     private void Death()
     {
         StartCoroutine(DeathRoutine());
+        
     }
 
     public void TakeDamage()
@@ -42,7 +43,7 @@ public class EnemyHealth : MonoBehaviour
 
         EnemyCounter.Instance.enemiesOnLevelLeft--;
 
-        Destroy(gameObject);
+        Destroy(gameObject.GetComponentInParent<EnemyPatrol>().gameObject);
     }
 
     private IEnumerator TakeHitRoutine()
