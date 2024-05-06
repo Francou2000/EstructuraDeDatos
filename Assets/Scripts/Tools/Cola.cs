@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class Cola
+public class Cola: ICola
 {
 
     public GameObject[] items = null;

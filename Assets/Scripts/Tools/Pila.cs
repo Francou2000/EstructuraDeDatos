@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class Pila
+public class Pila : IPila
 {
 
     public GameObject[] items = null;
