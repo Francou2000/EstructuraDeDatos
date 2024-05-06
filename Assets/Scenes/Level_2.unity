@@ -473,11 +473,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8629121496250858796, guid: 8eb55b0b5ed8aa54397b2fe3ea6e4375, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.4000397
+      value: 50.28
       objectReference: {fileID: 0}
     - target: {fileID: 8629121496250858796, guid: 8eb55b0b5ed8aa54397b2fe3ea6e4375, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.4336877
+      value: 2.07
       objectReference: {fileID: 0}
     - target: {fileID: 8629121496250858796, guid: 8eb55b0b5ed8aa54397b2fe3ea6e4375, type: 3}
       propertyPath: m_LocalPosition.z
@@ -891,11 +891,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7614291267449093379, guid: 6d7d9265327f4704c8953c58f77e042b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.114071
+      value: 101.9
       objectReference: {fileID: 0}
     - target: {fileID: 7614291267449093379, guid: 6d7d9265327f4704c8953c58f77e042b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.466424
+      value: -2.9
       objectReference: {fileID: 0}
     - target: {fileID: 7614291267449093379, guid: 6d7d9265327f4704c8953c58f77e042b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2957,7 +2957,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 516, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &835556321
 MonoBehaviour:
@@ -2978,7 +2978,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -2988,7 +2988,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: -1876712904, guid: 0f781221fd212bc45a8a1670849b64f8, type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
@@ -3035,8 +3035,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 14673189, guid: 0f781221fd212bc45a8a1670849b64f8, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3313,11 +3313,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9143167230905263769, guid: f4a10af68fc02ef4898719ce441dc137, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.84
+      value: 36.38
       objectReference: {fileID: 0}
     - target: {fileID: 9143167230905263769, guid: f4a10af68fc02ef4898719ce441dc137, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.4826055
+      value: -3.14
       objectReference: {fileID: 0}
     - target: {fileID: 9143167230905263769, guid: f4a10af68fc02ef4898719ce441dc137, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3525,8 +3525,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4279238400
+  m_fontColor: {r: 0, g: 1, b: 0.060104847, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3543,8 +3543,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 31.5
-  m_fontSizeBase: 31.5
+  m_fontSize: 42
+  m_fontSizeBase: 42
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4820,8 +4820,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4279172864
+  m_fontColor: {r: 0, g: 1, b: 0.054581404, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4838,8 +4838,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 42
+  m_fontSizeBase: 42
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5591,7 +5591,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 189.3}
+  m_AnchoredPosition: {x: -25, y: 189.3}
   m_SizeDelta: {x: 262.7059, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1830149999
@@ -5831,7 +5831,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -99}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 516, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1865068171
 MonoBehaviour:
@@ -5852,7 +5852,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -5862,7 +5862,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: -1876712904, guid: 0f781221fd212bc45a8a1670849b64f8, type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
@@ -5921,8 +5921,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 14673189, guid: 0f781221fd212bc45a8a1670849b64f8, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -6262,7 +6262,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
