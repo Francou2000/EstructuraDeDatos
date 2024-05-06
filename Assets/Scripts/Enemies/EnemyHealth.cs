@@ -21,6 +21,7 @@ public class EnemyHealth : MonoBehaviour
         if (currentHealth <= 0)
         {
            Death();
+
         }
     }
 
@@ -43,7 +44,7 @@ public class EnemyHealth : MonoBehaviour
 
         EnemyCounter.Instance.enemiesOnLevelLeft--;
 
-        Destroy(gameObject.GetComponentInParent<EnemyPatrol>().gameObject);
+        Destroy(gameObject);
     }
 
     private IEnumerator TakeHitRoutine()
