@@ -25,6 +25,8 @@ public class HealthBar : MonoBehaviour
         currentHealth = player.currentHealth;
         maxHealth = player.maxHealth;
 
+        Debug.Log(currentHealth.ToString());
+
         float fillValue = currentHealth / maxHealth;
         slider.value = fillValue;
     }

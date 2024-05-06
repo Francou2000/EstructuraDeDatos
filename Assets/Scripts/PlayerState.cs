@@ -50,7 +50,6 @@ public class PlayerState : MonoBehaviour
         currentHealth -= damage;
         changeHealth.Invoke();
         IsDead();
-
     }
 
     public void HealDamage(int healedDamage)
