@@ -4942,14 +4942,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7353024952778884558, guid: 841e7a77830e4874f9b0902ffba9442e, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7353024952778884558, guid: 841e7a77830e4874f9b0902ffba9442e, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7353024953348155457, guid: 841e7a77830e4874f9b0902ffba9442e, type: 3}
       propertyPath: m_Name
       value: PowerUp_Things
