@@ -27,9 +27,7 @@ public class EnemyHealth : MonoBehaviour
 
     private void Death()
     {
-        EnemyCounter.Instance.enemiesOnLevelLeft--;
         StartCoroutine(DeathRoutine());
-        
     }
 
     public void TakeDamage()
@@ -43,7 +41,7 @@ public class EnemyHealth : MonoBehaviour
 
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
 
-        
+        EnemyCounter.Instance.enemiesOnLevelLeft--;
 
         Destroy(gameObject);
     }
