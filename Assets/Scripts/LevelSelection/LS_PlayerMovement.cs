@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class LS_PlayerMovement : MonoBehaviour
 {
@@ -123,6 +124,34 @@ public class LS_PlayerMovement : MonoBehaviour
         }
 
 
+    }
+
+    public void LoadScene()
+    {
+        switch (actualVertice)
+        {
+            case VerticesID.Level_0:
+                SceneManager.LoadScene("MainMenu");
+                break; 
+            case VerticesID.Level_1:
+                SceneManager.LoadScene("Level_1");
+                break;
+            case VerticesID.Level_2:
+                SceneManager.LoadScene("Level_2");
+                break;
+            case VerticesID.Level_3:
+                SceneManager.LoadScene("Level_3");
+                break;
+            case VerticesID.Level_4:
+                SceneManager.LoadScene("Level_4");
+                break;
+            case VerticesID.Level_5:
+                SceneManager.LoadScene("Level_5");
+                break;
+            case VerticesID.Level_6:
+                SceneManager.LoadScene("Level_6");
+                break;
+        }
     }
 }
 

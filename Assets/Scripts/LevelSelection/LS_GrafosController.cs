@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Xml;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class LS_GrafosController : MonoBehaviour
 {
@@ -16,6 +17,8 @@ public class LS_GrafosController : MonoBehaviour
 
     private int[] nodosARecorrer;
     private int nodosRecorridos = 0;
+
+    public GameObject myRaycaster;
 
     void Start()
     {
@@ -40,6 +43,7 @@ public class LS_GrafosController : MonoBehaviour
 
     public void MoveToVertice(VerticesID VerticeObj)
     {
+        myRaycaster.GetComponent<Physics2DRaycaster>().enabled = false;
         int verticeObj = (int)VerticeObj;
         myDijkstra.Dijkstra(my_LS_Grafo, (int)Player.actualVertice);
 
@@ -49,39 +53,10 @@ public class LS_GrafosController : MonoBehaviour
         for (int i = 0; i < recorrido.Length; i++)
         {
             nodosARecorrer[i] = Convert.ToInt32(recorrido[i]);
-            Debug.Log(recorrido[i]);
         }
         nodosRecorridos = 0;
         SetObjPositionsToPlayer();
-
-        //----------------------------------------------------------------------------------------------------------------------
-        MuestroResultadosAlg(myDijkstra.distance, my_LS_Grafo.cantNodos, my_LS_Grafo.Etiqs, myDijkstra.nodos);
-
     }
-
-    public static void MuestroResultadosAlg(int[] distance, int verticesCount, int[] Etiqs, string[] caminos)
-    {
-        string distancia = "";
-
-        Debug.Log("Vertice    Distancia desde origen    Nodos");
-
-        for (int i = 0; i < verticesCount; ++i)
-        {
-            if (distance[i] == int.MaxValue)
-            {
-                distancia = "---";
-            }
-            else
-            {
-                distancia = distance[i].ToString();
-            }
-            string a = Etiqs[i] + "   " + distancia + "   " + caminos[i];
-            Debug.Log(a);
-        }
-    }
-
-    //------------------------------------------------------------------------------------------------------------------------------
-    //}
 
     private void SetObjPositionsToPlayer()
     {
@@ -96,8 +71,15 @@ public class LS_GrafosController : MonoBehaviour
         else
         {
             Player.actualVertice = vertices[nodosARecorrer[nodosRecorridos - 1]].myLevelName;
+            vertices[nodosARecorrer[nodosRecorridos - 1]].OpenPlayMenu();
         }
         
+    }
+
+    public void ClosePlayMenu()
+    {
+        vertices[0].playMenu.SetActive(false);
+        myRaycaster.GetComponent<Physics2DRaycaster>().enabled = true;
     }
 
 }
