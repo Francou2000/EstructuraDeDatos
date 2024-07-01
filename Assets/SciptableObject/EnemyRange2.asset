@@ -17,4 +17,4 @@ MonoBehaviour:
   bulletOwner: 0
   bulletDamage: 0
   powerUpEffect: 0
-  mySprite: {fileID: 0}
+  mySprite: {fileID: -219416865, guid: 60b39ec5a2bc47548be10f084dab3b73, type: 3}

@@ -30,13 +30,11 @@ public class FilterButtons : MonoBehaviour
         {
             isSelected = false;
             myImage.sprite = normalSprite;
-            filter.myObj[myObjIndex] = false;
         }
         else
         {
             isSelected = true;
             myImage.sprite = selectedSprite;
-            filter.myObj[myObjIndex] = true;
         }
     }
 

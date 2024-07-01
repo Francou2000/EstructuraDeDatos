@@ -8,8 +8,6 @@ public class IndexFilter : MonoBehaviour
 
     public bool[] myObj = new bool[12];
 
-    
-
     public void UpdateButtons()
     {
         foreach (GameObject button in myButtons)
@@ -59,26 +57,52 @@ public class IndexFilter : MonoBehaviour
 
                     button.SetActive(myObj[7]);
 
-                    if (myObj[8] || myObj[9] || myObj[10] || myObj[11])
+                    if (buttonData.BulletOwner == BulletOwner.Ally && buttonData.BulletDamage == BulletDamage.Weak)
                     {
-                        if (buttonData.BulletOwner == BulletOwner.Ally)
+                        if (myObj[8] && myObj[10])
                         {
                             button.SetActive(myObj[8]);
                         }
                         else
                         {
-                            button.SetActive(myObj[9]);
+                            button.SetActive(false);
                         }
-
-                        if (buttonData.BulletDamage == BulletDamage.Weak)
+                    }
+                    else if (buttonData.BulletOwner == BulletOwner.Enemy && buttonData.BulletDamage == BulletDamage.Weak)
+                    {
+                        if (myObj[9] && myObj[10])
                         {
-                            button.SetActive(myObj[10]);
+                            button.SetActive(myObj[9]);
                         }
                         else
                         {
-                            button.SetActive(myObj[11]);
+                            button.SetActive(false);
                         }
                     }
+                    else if (buttonData.BulletOwner == BulletOwner.Ally && buttonData.BulletDamage == BulletDamage.Strong)
+                    {
+                        if (myObj[8] && myObj[11])
+                        {
+                            button.SetActive(myObj[8]);
+                        }
+                        else
+                        {
+                            button.SetActive(false);
+                        }
+                    }
+                    else if (buttonData.BulletOwner == BulletOwner.Enemy && buttonData.BulletDamage == BulletDamage.Strong)
+                    {
+                        if (myObj[9] && myObj[11])
+                        {
+                            button.SetActive(myObj[9]);
+                        }
+                        else
+                        {
+                            button.SetActive(false);
+                        }
+                    }
+                    
+
                         
                     break;
             }
