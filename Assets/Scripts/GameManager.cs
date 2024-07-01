@@ -24,12 +24,10 @@ public class GameManager : MonoBehaviour
                 bestTimes[i, 1] = int.MaxValue;
                 bestTimes[i, 2] = int.MaxValue;
 
-                bestTimesNames[i, 0] = "None";
-                bestTimesNames[i, 1] = "None";
-                bestTimesNames[i, 2] = "None";
+                bestTimesNames[i, 0] = "1°    ";
+                bestTimesNames[i, 1] = "2°    ";
+                bestTimesNames[i, 2] = "3°    ";
             }
-            SetBestTimes(5, "El", VerticesID.Level_1);
-            SetBestTimes(2, "Ele", VerticesID.Level_1);
         }
     }
 
@@ -39,7 +37,7 @@ public class GameManager : MonoBehaviour
     public string[,] bestTimesNames = new string[7,3];
 
 
-    public void SetBestTimes(int time, string name, VerticesID levelName)
+    public void SetBestTimes(int time/*, string name*/, VerticesID levelName)
     {
         int[] times = { bestTimes[(int)levelName, 0], bestTimes[(int)levelName, 1], bestTimes[(int)levelName, 2], time};
         times = mySortTool.QuickSort(times, 0, times.Length - 1);
@@ -48,17 +46,17 @@ public class GameManager : MonoBehaviour
         bestTimes[(int)levelName, 1] = times[1];
         bestTimes[(int)levelName, 2] = times[2];
 
-        for (int i = 0; i < 3; i++)
-        {
-            if (times[i] == time)
-            {
-                for (int j = 2; j > i; j--)
-                {
-                    bestTimesNames[(int)levelName, j] = bestTimesNames[(int)levelName, j - 1];
-                }
-                bestTimesNames[(int)levelName, i] = name;
-            }
-        }
+        //for (int i = 0; i < 3; i++)
+        //{
+        //    if (times[i] == time)
+        //    {
+        //        for (int j = 2; j > i; j--)
+        //        {
+        //            bestTimesNames[(int)levelName, j] = bestTimesNames[(int)levelName, j - 1];
+        //        }
+        //        bestTimesNames[(int)levelName, i] = name;
+        //    }
+        //}
     }
 
 }

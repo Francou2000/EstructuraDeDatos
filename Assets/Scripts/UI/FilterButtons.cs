@@ -15,6 +15,9 @@ public class FilterButtons : MonoBehaviour
 
     private Image myImage;
 
+    public IndexFilter filter;
+    public int myObjIndex;
+
     void Start()
     {
         myImage = GetComponent<Image>();
@@ -27,11 +30,13 @@ public class FilterButtons : MonoBehaviour
         {
             isSelected = false;
             myImage.sprite = normalSprite;
+            filter.myObj[myObjIndex] = false;
         }
         else
         {
             isSelected = true;
             myImage.sprite = selectedSprite;
+            filter.myObj[myObjIndex] = true;
         }
     }
 
@@ -41,12 +46,14 @@ public class FilterButtons : MonoBehaviour
         {
             IsEnable = false;
             GetComponent<Button>().interactable = false;
+            filter.myObj[myObjIndex] = false;
             myImage.sprite = disableSprite;
         }
         else
         {
             IsEnable = true;
             GetComponent<Button>().interactable = true;
+            filter.myObj[myObjIndex] = true;
             myImage.sprite = normalSprite;
         }
     }
@@ -59,6 +66,7 @@ public class FilterButtons : MonoBehaviour
             IsEnable = false;
             isSelected = false;
             GetComponent<Button>().interactable = false;
+            filter.myObj[myObjIndex] = false;
             myImage.sprite = disableSprite;
         }
         else if (!fatherSelected)
@@ -66,10 +74,11 @@ public class FilterButtons : MonoBehaviour
             IsEnable = true;
 
             GetComponent<Button>().interactable = true;
+            filter.myObj[myObjIndex] = true;
             myImage.sprite = normalSprite;
         }
         fatherSelected = !fatherSelected;
     }
 
-
+    
 }

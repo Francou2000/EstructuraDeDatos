@@ -9,6 +9,8 @@ public class EnemyCounter : MonoBehaviour
     public Player player;
     public static EnemyCounter Instance;
 
+    private float timer = 0;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -23,6 +25,7 @@ public class EnemyCounter : MonoBehaviour
 
     private void Update()
     {
+        timer += Time.deltaTime;
         if (enemiesOnLevelLeft == 0)
         {
             StartCoroutine(FinishLevel());
@@ -33,6 +36,11 @@ public class EnemyCounter : MonoBehaviour
     {
 
         SceneManager.LoadScene("LevelSelection");
+        GameManager.Instance.levelLock[2] = false;
+        GameManager.Instance.levelLock[3] = false;
+
+        GameManager.Instance.SetBestTimes((int)timer, VerticesID.Level_1);
+
     }
 
     private IEnumerator FinishLevel()
