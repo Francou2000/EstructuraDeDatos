@@ -27,9 +27,40 @@ public class VerticeData : MonoBehaviour
         gameManager = GameManager.Instance;
         myAnimator = GetComponent<Animator>();
         isLoked = gameManager.levelLock[(int)myLevelName];
-        bestTimes[0] = gameManager.bestTimesNames[(int)myLevelName, 0] + gameManager.bestTimes[(int)myLevelName].x;
-        bestTimes[1] = gameManager.bestTimesNames[(int)myLevelName, 1] + gameManager.bestTimes[(int)myLevelName].y;
-        bestTimes[2] = gameManager.bestTimesNames[(int)myLevelName, 2] + gameManager.bestTimes[(int)myLevelName].z;
+        int[] myBestTimes = new int[3];
+        myBestTimes[0] = gameManager.bestTimes[(int)myLevelName,0];
+        myBestTimes[1] = gameManager.bestTimes[(int)myLevelName,1];
+        myBestTimes[2] = gameManager.bestTimes[(int)myLevelName,2];
+
+        if (myBestTimes[0] == int.MaxValue)
+        {
+            bestTimes[0] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 0], 0);
+        }
+        else
+        {
+            bestTimes[0] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 0], myBestTimes[0]);
+        }
+
+        if (myBestTimes[1] == int.MaxValue)
+        {
+            bestTimes[1] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 1], 0);
+        }
+        else
+        {
+            bestTimes[1] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 1], myBestTimes[1]);
+        }
+
+        if (myBestTimes[2] == int.MaxValue)
+        {
+            bestTimes[2] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 2], 0);
+        }
+        else
+        {
+            bestTimes[2] = string.Format("{0:00000}   {1:000}", gameManager.bestTimesNames[(int)myLevelName, 2], myBestTimes[2]);
+        }
+        
+        
+        
 
     }
 

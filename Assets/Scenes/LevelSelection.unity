@@ -6879,14 +6879,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelLock: 00000101010101
-  bestTimes:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
 --- !u!4 &1915978631
 Transform:
   m_ObjectHideFlags: 0

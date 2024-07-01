@@ -128,11 +128,18 @@ public class LS_PlayerMovement : MonoBehaviour
 
     public void LoadScene()
     {
+        StartCoroutine(EnterLevel());
+    }
+
+    public IEnumerator EnterLevel()
+    {
+        m_Animator.SetTrigger("NextLevel");
+        yield return new WaitForSeconds(m_Animator.GetCurrentAnimatorStateInfo(0).length);
         switch (actualVertice)
         {
             case VerticesID.Level_0:
                 SceneManager.LoadScene("MainMenu");
-                break; 
+                break;
             case VerticesID.Level_1:
                 SceneManager.LoadScene("Level_1");
                 break;

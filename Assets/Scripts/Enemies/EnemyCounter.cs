@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class EnemyCounter : MonoBehaviour
 {
     public int enemiesOnLevelLeft;
-
+    public Player player;
     public static EnemyCounter Instance;
 
     private void Awake()
@@ -25,12 +25,21 @@ public class EnemyCounter : MonoBehaviour
     {
         if (enemiesOnLevelLeft == 0)
         {
-            NextLevel();
+            StartCoroutine(FinishLevel());
         }
     }
 
     private void NextLevel()
     {
-        SceneManager.LoadScene("Level_2");
+
+        SceneManager.LoadScene("LevelSelection");
+    }
+
+    private IEnumerator FinishLevel()
+    {
+        player.GetComponent<Input_Manager>().enabled = false;
+        player.anim.SetTrigger("NextLevel");
+        yield return new WaitForSeconds(player.anim.GetCurrentAnimatorStateInfo(0).length);
+        NextLevel();
     }
 }

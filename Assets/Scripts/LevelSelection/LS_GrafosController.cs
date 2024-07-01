@@ -29,12 +29,14 @@ public class LS_GrafosController : MonoBehaviour
         {
             my_LS_Grafo.AgregarVertice((int)vertices[i].myLevelName);
         }
-        for (int i = 0;i < aristas.Length; i++)
+        for (int i = 0;i < aristas.Length - 1; i++)
         {
             my_LS_Grafo.AgregarArista((int)aristas[i].myConectionName1, (int)aristas[i].myConectionName2, 1);
             my_LS_Grafo.AgregarArista((int)aristas[i].myConectionName2, (int)aristas[i].myConectionName1, 1);
         }
-        
+        my_LS_Grafo.AgregarArista((int)aristas[aristas.Length - 1].myConectionName1, (int)aristas[aristas.Length - 1].myConectionName2, 2);
+        my_LS_Grafo.AgregarArista((int)aristas[aristas.Length - 1].myConectionName2, (int)aristas[aristas.Length - 1].myConectionName1, 2);
+
         myDijkstra = new DijkstraAlg();
 
         Player.Arrived.AddListener(SetObjPositionsToPlayer);
