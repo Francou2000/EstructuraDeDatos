@@ -1,0 +1,1756 @@
+fileFormatVersion: 2
+guid: 4f288652078b4ae449187117738f9987
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 796
+        width: 292
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194322d9bb239245ab1e00443f56a9d
+      internalID: -2058600974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 874
+        width: 292
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9e19db038dc724cbacbbfa183f339e
+      internalID: -1099032713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 874
+        width: 605
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b06aca40711241b732711084b11c3
+      internalID: 138260266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 844
+        width: 216
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0259656d6d59498b99bf5d72e5eed
+      internalID: 1902142832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 818
+        width: 216
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f1c96cb0621747baee7ad106a7543
+      internalID: -1133367285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 795
+        width: 494
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142cf37844b7204cbc8518e70dc5094
+      internalID: 405251790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 795
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2934eef478a8d44bc6b70ff3a882ea
+      internalID: 1918978927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 794
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4c18d631fbcb46a8e707530de6912
+      internalID: -1508133643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 793
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29e2186bdb63041aeec40fc4df84d5
+      internalID: -1526008133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 799
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4d45b176de8c4ca96a3f8e055c4d0
+      internalID: -187448226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 799
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f29bd7127d5b0f45a03824b520f1046
+      internalID: 82025690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 799
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58527b3be41c684c93dd1b2999833e2
+      internalID: -1644526264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 252
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ff1ea49f975645a0c9b3d36dabfaa
+      internalID: -812915794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 715
+        width: 252
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61474314275c04bb4564b1d257d1df
+      internalID: -1974199986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 711
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b5cd3c7387394db94fa891701cf15
+      internalID: 504166819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 711
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c9a969924cf44a882920d40087375
+      internalID: 707598250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 711
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca301a177249e540aa043d1a639a37d
+      internalID: 1424249989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe764713a3df98e42bcd1a556072c32a
+      internalID: 1499269901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 629
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2d0a5ac15dce45b4c037336b1117e
+      internalID: -1879234249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 629
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86047cf8b269ccd4fb6978b41587de43
+      internalID: -186312567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 629
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21481226f06a9c94a9bafccc1a0591b0
+      internalID: 1084049502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_21
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 629
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f10708c87efd14189a6ecbd2aba96c
+      internalID: -1459864303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d720d29fdfe794bb601c5e0858aef9
+      internalID: -1456718027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 547
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f45e26ae7998ab4b8a945cd35677035
+      internalID: 1071069269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 547
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce50614926ed843847c11dc69d19a4
+      internalID: 10273720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 547
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ba1a523bb4f234492df38f095a8ccd
+      internalID: -1806891204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_26
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 547
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20763701054ef87478d9af2397495ca0
+      internalID: 1954096248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6ca08630e2c6439da633d94682ab1
+      internalID: -1908042409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 465
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d6544ab49b114cb03e440110ff0af
+      internalID: -991712148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 465
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74c553be137ad45b3f406c12fa3f53
+      internalID: 808532433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 465
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff22cfeb709264ab533ff81a9c69b5
+      internalID: 1641990521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_31
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 465
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b007a429a67d8429b671076defe5aa
+      internalID: -260485959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347746048ea12fd41abbaabd3c7dc258
+      internalID: -1808030279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 383
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a324d9b157bf4e641b5b2d73fc9b8982
+      internalID: 256802605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 383
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfcf3e7299847e42843a0a3c2bdb99f
+      internalID: 893982649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_35
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 383
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f2cd1a4c7cd749aac8ae17334d0c9
+      internalID: 1287566584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 383
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ecb36a3616c9848bde13865fc9a972
+      internalID: -1114247074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ecef0204680c64c8a2157e948ad37c
+      internalID: -1876411886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 306
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d38118f86b934da5d3b1a49c80420
+      internalID: -285253027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 305
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eddc3d25bbf29741a59f3c684ce8847
+      internalID: -1849694365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 304
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2993ba4371d646915168e8d20d647
+      internalID: 2135336693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 304
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fde0e517aef4429295db5f1e1b239
+      internalID: 1763634758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8612ac3a16b287b4aaa40e3e033d9cce
+      internalID: -294367101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa096da312dc59a4aa83e64f793a3f03
+      internalID: -214982745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 306
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38826c15692945b48baafc48218c95d4
+      internalID: 851012243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 304
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb6d12a401ee24dbb91a1823ed5551
+      internalID: -776136326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_46
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 301
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c73d22c18d0c42b3561db3a958536
+      internalID: 2058328099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_47
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 301
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79fa35af65334499ec2715fc9650f2
+      internalID: 619256306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00bde3fb40b4b4a95ebfcef9c43a97
+      internalID: 430631594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d920ca83367574a99cd25dc7db20a5
+      internalID: 284238842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 224
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312edec93413ad4991b6b302e661bdd
+      internalID: 2064783110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88e7e4e480845542967d5b8e85ce990
+      internalID: -193299205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_52
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 224
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9c498618772445b1246316b758d66
+      internalID: -861492540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 253
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2237fa0c1531fcb4b95d706c5c0c9f9f
+      internalID: -185141343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 224
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6733cb4fa2e044ad345de8d8036dd
+      internalID: -1262637845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 224
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625865dffa8ff154eb2de9fbf2e871a7
+      internalID: -1128187528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_56
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 224
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641370318fe6c748bc2e9f5e23bc4bf
+      internalID: 411235317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_57
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 224
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a04305e915c449bf0c2473a535f56
+      internalID: -1389713743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374d310aee13314d89f95fac6efd1b9
+      internalID: -683900707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 155
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b855483b7a91e41b484b74b8d0edfd
+      internalID: -1801208101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1a83984236f14e8f70419c81bad0e
+      internalID: 1453354415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 144
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9575decf52c05b1488ffbe7ff98a9c94
+      internalID: 1191410583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_62
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 151
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab654388e5e25a34d87734af3874b3c2
+      internalID: -1900536066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd08ec66113e6d499075b2121a85dbb
+      internalID: -2002845945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 144
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa973c9efba34fb4b8e6849bbf9e36d0
+      internalID: -1006122496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_65
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 144
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d5f6c8400da445828c4e360fc8516
+      internalID: -687237054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_66
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 144
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870e2c31870a22469b454abfc6821a2
+      internalID: 1588889723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c837ecee80f784a9e7b0814f715eb7
+      internalID: -203854956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f689379feec0784b89e8d4199c03667
+      internalID: -57870160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 64
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac97eedad4764114fa330c7c18f7f28e
+      internalID: 2064715645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7768be3e3eddfc45b351c3ed1292f6c
+      internalID: -2136743503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_71
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 64
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e920156791ea41ba7e1b3b229587f
+      internalID: 670948494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 75
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50768a0d190a2d349a2f711a8aca2c8a
+      internalID: -1676575155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 64
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf94a515bec234a4aa0d1602b52e155d
+      internalID: -1352602298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_0: -2058600974
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_1: -1099032713
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_10: 82025690
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_11: -1644526264
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_12: -812915794
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_13: -1974199986
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_14: 504166819
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_15: 707598250
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_16: 1424249989
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_17: 1499269901
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_18: -1879234249
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_19: -186312567
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_2: 138260266
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_20: 1084049502
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_21: -1459864303
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_22: -1456718027
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_23: 1071069269
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_24: 10273720
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_25: -1806891204
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_26: 1954096248
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_27: -1908042409
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_28: -991712148
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_29: 808532433
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_3: 1902142832
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_30: 1641990521
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_31: -260485959
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_32: -1808030279
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_33: 256802605
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_34: 893982649
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_35: 1287566584
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_36: -1114247074
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_37: -1876411886
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_38: -285253027
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_39: -1849694365
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_4: -1133367285
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_40: 2135336693
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_41: 1763634758
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_42: -294367101
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_43: -214982745
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_44: 851012243
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_45: -776136326
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_46: 2058328099
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_47: 619256306
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_48: 430631594
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_49: 284238842
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_5: 405251790
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_50: 2064783110
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_51: -193299205
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_52: -861492540
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_53: -185141343
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_54: -1262637845
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_55: -1128187528
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_56: 411235317
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_57: -1389713743
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_58: -683900707
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_59: -1801208101
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_6: 1918978927
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_60: 1453354415
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_61: 1191410583
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_62: -1900536066
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_63: -2002845945
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_64: -1006122496
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_65: -687237054
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_66: 1588889723
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_67: -203854956
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_68: -57870160
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_69: 2064715645
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_7: -1508133643
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_70: -2136743503
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_71: 670948494
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_72: -1676575155
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_73: -1352602298
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_74: 118960326
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_75: 1564145988
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_76: 1189989580
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_77: -1833704235
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_78: -704620201
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_8: -1526008133
+      PC Computer - Freedom Planet 2 - Battlesphere Arena Menu_9: -187448226
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

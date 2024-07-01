@@ -16,7 +16,7 @@ public class Player : MonoBehaviour
     public Transform wallCheck;
     private Vector2 direction = Vector2.zero;
 
-    private Animator anim;
+    public Animator anim;
 
     private Weapon _weapon;
     private PowerUpManager _powerUpManager;
