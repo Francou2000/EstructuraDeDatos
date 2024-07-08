@@ -1,0 +1,7141 @@
+fileFormatVersion: 2
+guid: 7429d8908b4f0a7419769636f52ff70c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss megaman_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 836
+        width: 6
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2a2a39b4a63ca449249e1bc16df1c8
+      internalID: 1404454556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfaad34fe29fb448a92f35de27df9d6
+      internalID: 1582786105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b11ca27eb1bf489f7ab226963efd0
+      internalID: -611071581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0e27094d29dd43b0f6109aed5c2ff
+      internalID: -1009144114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba61e0def854840baedc6d8280ceca
+      internalID: -2022101747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2edfb528fa5e4285f7c0d8895b981
+      internalID: 1244513337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 838
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5804e937af1d409326d0604f0b306
+      internalID: 625377591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 838
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638707b2291c064b9d3c1a4dc2f3f32
+      internalID: 1126216967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 838
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019eb668d64607498d0252585dbac1d
+      internalID: -2040708584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 838
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffac52c00662649884d8e84f038b99
+      internalID: -191119170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 838
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39d9b719f358ce4986caf934cc003b6
+      internalID: -578359279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 838
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830dc30a8e7124947bb5a3bb562a9daf
+      internalID: 676217598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 838
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e8adadb2d8b74da4933796ae379ea
+      internalID: -1408810978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 779
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ce07996e3688647af7bdb5b0c56943
+      internalID: -2060299079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 777
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8941baca100f604e8f3f7798e3c9621
+      internalID: -1203639594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 773
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee861eba7ceeaf648ada52d4b1061ab5
+      internalID: -1671966038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 771
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799aad767e1de44ab83402884b755a2
+      internalID: 100695845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 772
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392fe9b3670718b4da0d66c8100053b9
+      internalID: 604640545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 774
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51941e9ac862d5649b298a5735e18414
+      internalID: -526393837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 773
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4a5e3a32242841a409b2af21f3eae
+      internalID: 1571448976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 772
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0278280d8659b64eb9ed00dfcca8da4
+      internalID: 1149538791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 772
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0fa8c447c18f34890be079eea5c0c1
+      internalID: -1372638852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 773
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dbe9bf48a396d429ae6a67ff120b68
+      internalID: 1852697688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 776
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d24f8c12fc644d8f76453e132975d
+      internalID: -884620658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 774
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38e6fbd1bdf874ebc3130aecad5795
+      internalID: 1381095677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 776
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76737bb9c6f2545a70ede7bbe1e00c
+      internalID: -1599394162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 777
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f2fdc9b8695d4aa052afb72f27929
+      internalID: 891803400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 713
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3dc97975824e24b822a6ad9f43d8c6
+      internalID: -1313245373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 713
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c9698a51dd09458d0cb90cbff771d
+      internalID: -1366307316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 713
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f958e950475dac44482ca88fd3a1cdcd
+      internalID: 2064775182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 713
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0845e0cc0aacb45b817d2e1b174c78
+      internalID: 820319252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 713
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a10b4bd81684641a15432e988b7567
+      internalID: -1619902646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 713
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564feea21a487194aa840e8faa7fe209
+      internalID: 1805067272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 727
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7254e5f591f04494ccc608646d908
+      internalID: 314661278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 727
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c06d004006294b8bbd530a15d0669
+      internalID: -1350033457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 713
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64ef2aad72f4b4e8c5c0bbd1f46b89
+      internalID: 505469021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 655
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91bf275d0cb8a044829e8b67f08f5c5
+      internalID: 535816312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 642
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e74e356fc8fa44a95f8fe36b9beaa
+      internalID: 168740328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 642
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb5af3ffbc2534b9a6752e2385b259
+      internalID: -1932920703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 641
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b900f7bf65ae45acdc0285a1174c0
+      internalID: 1561706794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 641
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d3e8c998a60640aa075cbd822c4ac
+      internalID: -1572277514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 641
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4221d1618f50dce4bbce23d9b5ee78b3
+      internalID: -1777149184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_42
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 627
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aa9a4479940764287a3782cd838530
+      internalID: 1286338274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 631
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f1e5bd43804340aa8f119977f99ed
+      internalID: 1208611321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 651
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37832870c28ba31488d27adf46b708fd
+      internalID: 294554927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 658
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7927b774f2636a34cad83f5535250fe1
+      internalID: 1752884971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 641
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856f2e20d683c34daba2ca9e00fe2ae
+      internalID: -1167471437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_47
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 641
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c149d6bd4798479151ca01d384b90
+      internalID: -413094769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 641
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a7e179892ac14b8ef04a80497e980
+      internalID: -610040875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 641
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c068f0ad586714d87642cb8d5f5751
+      internalID: -1285729461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 641
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc33a0e552bb94a84c52022f90d96a
+      internalID: -466203348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_51
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 641
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ed9a80925f734a9cab3edf5c1177e
+      internalID: -1473004868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 641
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5ad011535a1046b7377e22e426500
+      internalID: 1657618991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_53
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 641
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a58df9f95fc59346b5d81a140c72fea
+      internalID: 548378542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0166c1e1976ade42822b6df02f8f233
+      internalID: -1967846508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_55
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 641
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de832d2a84ec84098842a9e5c4ec90
+      internalID: 1946042269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 641
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd09724f95b4004881cb78cbce13dea
+      internalID: -661528348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_57
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 641
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8984c880c8093843919d49c0cde9a0e
+      internalID: 1290280947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_58
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebe76d174f7b649b7b5f11ff663ebd
+      internalID: -1565813659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 628
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806706b71d6a9204ca9b8fba30a74ed5
+      internalID: -1406500298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_60
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 626
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8359fb11431b418c41d757b14f1bc
+      internalID: -1187273083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_61
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 628
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a584079b90ad4c86e8fb804712c52
+      internalID: 1051006540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_62
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad314ca7dc84444b5e7ced18d817e8
+      internalID: 457153144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9bd3c9cc83ad14fb0458805dd52975
+      internalID: -2072684678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 628
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd217acde0d9c4468ab6fb2f770967a
+      internalID: -600115183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_65
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b62c37fa7b474c9d8769fa4129b74
+      internalID: 1850545253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 628
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09537914b073c4392386943412b01d
+      internalID: -198273918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_67
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 628
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00403184a2d807c4985ef4cc14edb383
+      internalID: -1573802386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 628
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0fdca1cbede5448c40fc89b7bde8d
+      internalID: -1518730414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_69
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46593dc869affc644961f074f4de2fda
+      internalID: 1576730617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_70
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 628
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3d5ad3f36b9b40aa3a4d60c3f2d22
+      internalID: -886712589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_71
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 628
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49691ca4088399f4cb5253e35344f846
+      internalID: 1554855645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf7fc7ec1a13946bcc43958b40413f
+      internalID: -894635262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 571
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8100f23af168274586a952fe2dfe933
+      internalID: 1160079524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 571
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40677679302a1744384e853936c30135
+      internalID: -1065513653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 572
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d129e1c8c4154a854da4288591eda
+      internalID: -1718691017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 573
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988f783e3e8d0c34e9a27c25680608bb
+      internalID: -1616802170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_77
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 573
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e603fa13bdc674d84d5531b54f5f2a
+      internalID: -1801997072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 572
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae1f25c00f4fd24ab46f5dfd4621fd5
+      internalID: -642161203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 572
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed17dc12f0a854680de2350f6664de
+      internalID: 2091556708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_80
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 613
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eaf38348e5b4c42a51e2f7e484320c
+      internalID: 539435244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_81
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 615
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd899f3593826e4387c61bd91770968
+      internalID: -1273706200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_82
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d94fb4c96220347a9f0d9d927fc1df
+      internalID: 295501430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296725744926d946909067643784e8a
+      internalID: -358266489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_84
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 615
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88828279b22dc408f1aa4a0fd1eee4
+      internalID: 616520278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_85
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128786e605aa9c4ba2fc40456db54a9
+      internalID: 1411921432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 615
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c19658e64b53b4c8c964bfeceaafaa
+      internalID: 1229908695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_87
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd3fdc3db42b14cb69737208040656
+      internalID: 236366690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_88
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 615
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb470170923f434bbe32405997c60c4
+      internalID: 1878522651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed719856fa93bf4ead522fd037cd41e
+      internalID: 1636180575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_90
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 615
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff10cf238b59c49afea8f40cd46a48
+      internalID: 2134902523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64422108707760f4cae5c167c6fec06b
+      internalID: -1356270871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_92
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 612
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4d54e442f65645be59b66f9204a3e
+      internalID: 449834709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_93
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 613
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93304c0e595eed245bacc9b79743657f
+      internalID: -571187656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_94
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 615
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd86ab350113d14f8a441c39c0debdb
+      internalID: -1870915222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_95
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 615
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598aa51dfaa83374d91131bb303c9dc0
+      internalID: -747799940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_96
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 615
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852979e02c82c8647b6b8a99459bdbf5
+      internalID: -263693099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_97
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b480449ef47a1c4793a58113c8c9c11
+      internalID: 1209766164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_98
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 615
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4814c353bf28a64fbad995ec8ed18d4
+      internalID: -345361130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_99
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 613
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357bb290f8f3eb84186a6b4c791c5685
+      internalID: 1183627154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_100
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 572
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11faa1d4f79e5244b89d902e7aa1a3f
+      internalID: 2016901053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 588
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fabaa4e553550f4993d4e02e3146fbc
+      internalID: 1124356668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 588
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714c4e62f3ee82a409acd1d3ece4f1b7
+      internalID: 507285962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_103
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed053224d50c04a934ddb64e56bf83
+      internalID: -2000293298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69578cdc319f57a46b8bfaa6cfe4707e
+      internalID: -1219902225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_105
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f92c8b934d3804aa51c01d890d7028
+      internalID: 452889740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fea442349f96e42b78442bb300ef33
+      internalID: -1673445683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_107
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 586
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be2d4bbe27c42e4bbc8a99d0f794e0d
+      internalID: 1183506387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_108
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 588
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a12d7b05c13049833ebd69ddd1ff8
+      internalID: -86749670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_109
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e25f74031b024bbbd86a9b7ef0792
+      internalID: 1983701599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_110
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 588
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0245fe7b40928c449b23203225811cf
+      internalID: 339232971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_111
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ac909519ed0d41a22c5f3ecdd65df
+      internalID: -590830932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 588
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0daf6a9b1500274f9fece21e029f17e
+      internalID: 1425668945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_113
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 586
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9e6af82bdc3d4cb0c38ac7c81bfeb
+      internalID: -2016322892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_114
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151a4089ff7d9148bef05f30a2093f6
+      internalID: 461566968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_115
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 588
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81040a15e0cbf1846b08cb4ea4116954
+      internalID: 715035938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 588
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171b014a0623f24fa97acb6157bdcc7
+      internalID: 1641933899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_117
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 588
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1e010e6479154891176edde74b273
+      internalID: 382441542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_118
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe368d3dba65704ea5b4939b79d1764
+      internalID: 188836762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_119
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b0158bb8d30d4bbe4fd65fb57e230
+      internalID: -1145913987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 573
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f1ceaa2b08d54dabb2fb848d42447
+      internalID: -1560271523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_121
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e17ff303abe454fa7bef829249e60d
+      internalID: -2099613372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_122
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792015658b655dc4ca45f3eb4461b082
+      internalID: -761101221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_123
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68b6f68be64b24f905b8248dee1dcf
+      internalID: 1198460004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_124
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c21550b7d84df46a1c3f6d9295fe38
+      internalID: -1066371088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_125
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 573
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e22c95fca75e04f858514c1e6d7d41
+      internalID: 545260128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d490e787b1ef3b468564e28647d3f65
+      internalID: -1661213409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256362b4eb1b6bf4683595e00b45d262
+      internalID: -870876758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_128
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 573
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae47537e56de7c4cb96c66a0cca3cbe
+      internalID: 1027223762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_129
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703f07da6363ee4baa765196b1a6494
+      internalID: -1753677894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_130
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16307fa85cc9f4fae4863f596dabf3
+      internalID: 1601024668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_131
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 575
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec40b8d635a2314aad861ec58994ff0
+      internalID: -1891926008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_132
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 575
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213052c4f65a10d4aaba2d11967c1d30
+      internalID: -1145708282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_133
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a50e3ec8ae9746afb2da983264547
+      internalID: -14647033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_134
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 575
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c475f22da1974884ad92317fad122
+      internalID: 99568223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_135
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968eddce9d3b10f4bbe9ae31a5a804b7
+      internalID: 958446369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_136
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 575
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354ef87f914c4fb4bb3c0b842fef8215
+      internalID: -469069317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_137
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 575
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85dd321a6790044b660990c23b9caf
+      internalID: -1026482358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 516
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0bacb54942c84f879fe9f666d1cb3
+      internalID: -1133457372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_139
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 517
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f462736d6fa248c4e995f745c17d31be
+      internalID: 796854207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_140
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 515
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7af9bfadfe4843bc3ea1a9e4d35a2
+      internalID: 1768870235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_141
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 560
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837a9ecb50b4e843810726267f84851
+      internalID: -283810120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_142
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52774b2759e434740b28f246bcad27d0
+      internalID: -184617969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_143
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 562
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94e7d0ba810ef408b9088116ea3097
+      internalID: 732641033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_144
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4a2437bd28ff418e276487e12208b
+      internalID: -1157863780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_145
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e0b7163fc1b5544a04e56ee55187f1
+      internalID: -1542901153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_146
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239c31c76ffb9f848b0a76407e4fe9e4
+      internalID: -1731204221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_147
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55297d4b5fd404d9bce7814d24682f
+      internalID: 1453382835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_148
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 560
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccaa6e78ad0a634dbff5905bd8e9ac7
+      internalID: -1405816092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_149
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 562
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6b7276189e094190d59525d169fe4
+      internalID: 537482886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_150
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4cbb55ddc76124e8511fddb6684e13
+      internalID: -1297611123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_151
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 562
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d91c1c3f1393441b5c677bae184fb5
+      internalID: -686513833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_152
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 562
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48de25acbf6a994e9900a7ad6e65b89
+      internalID: 1234489355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_153
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb64c171ba12e74ab8f1d772339915f
+      internalID: 1748696387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_154
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 562
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a59a2685113834caaf53a50cfebb92
+      internalID: 1015671452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92624c268c7f62478c094c44994f994
+      internalID: 488228848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_156
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 562
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bc6710bd7e15d4bb1064ebdc08a03e
+      internalID: -1232483967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_157
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 562
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19620a299379d2a498acfaaa188f3e7f
+      internalID: 991629432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_158
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 516
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677295485f7198498bf98f7d6ced0a5
+      internalID: 741665591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 516
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9225aa15698b0e44b842374abad7999b
+      internalID: -837060457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_160
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 515
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff708684927f3f4c9d82469bdad263e
+      internalID: 2126787242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_161
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 515
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8a3628303cad9458df13a42fb0f827
+      internalID: -1272911420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_162
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 515
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04650f309d8c8498e0d5c0bcacd6b9
+      internalID: 1115946478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_163
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 549
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662e34dc1a01054fa2f2ff795da9071
+      internalID: 1246799975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_164
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412f621dfecc5a4ea2760757b9da97e
+      internalID: 481250884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 549
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d03054efc25a42b05feb6c4407909
+      internalID: 1423785208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_166
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 549
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096a1f5a4a5efd49a65d72a5b00ec78
+      internalID: 1257225922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_167
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 549
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fcfa4e7424b924abcd7b1bd4953b4e
+      internalID: 222580202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_168
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ec7965ffb26a4aac87d5c4fbb179c
+      internalID: -1430919264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_169
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 549
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b670fbc5b86945a386d384caab10f
+      internalID: -1010003303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_170
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 549
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4fd169d4c45f2478d4fc3ce700c100
+      internalID: 1173329241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_171
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 549
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4f8b56174e514c9f739d2315c7534
+      internalID: -1838167083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_172
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07791129e09cba84d97845f20a0560d5
+      internalID: 585883615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_173
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 549
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ab082c994968449abb3179dac0db2
+      internalID: 1794923050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_174
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 549
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e954ec4af5bf448f5a123de9566fa
+      internalID: -26191924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_175
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 549
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378b9cdde7fece46b757baeaa3b263a
+      internalID: 781004370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_176
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449fbffaf18f2c646947181197dc04f4
+      internalID: 1331817436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_177
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 549
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694087c540cd08489b60335213cbe18
+      internalID: 1935685331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_178
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 549
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5d61ed77de7149a6779ea56c4a793
+      internalID: -1505623589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_179
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 547
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc2e912ffcd2445b3267af506e9ece
+      internalID: -530484276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_180
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 535
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0e9d81f42db143aadd75ca2303c93
+      internalID: -296861583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_181
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391c2623988d334797777d1f6cfbe95
+      internalID: -1641895426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_182
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027307059538604b8942e96e7ce25bd
+      internalID: -477787732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_183
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b65ce0b8ac3f584d9dc92787ff2f992
+      internalID: 1691141775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_184
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722dd3635dc2a0c448efcbd965539a60
+      internalID: 549833084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_185
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fcce6c28452b4d85d5f65f631fdc5
+      internalID: -231216956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_186
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 535
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306e95be51cfe94494a305c6d534122
+      internalID: 550370104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_187
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 535
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497bca6027469647beadd496d99134e
+      internalID: -1626761339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_188
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81c21348cf365489ce2f9f7a79725b
+      internalID: 914816650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_189
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 535
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc153e18673b61242abac34e21bea57f
+      internalID: -1118648942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 535
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b8125f05ad93488c6bea76a83929d
+      internalID: -1497933760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_191
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 535
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9f6747761ae24a8540fbba4e0acca
+      internalID: 1036421708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_192
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf5e244bb2dc984b9c00a6657dcc797
+      internalID: 785510117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_193
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2db9b28acdf44484570083b65487b
+      internalID: 105716047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_194
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3aee4c8eec21342bdd75a26ea4d790
+      internalID: -1766668253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_195
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 535
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e5c72d6878034faf8bb3ca93f82db
+      internalID: -58265633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_196
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1145d831de7861a469a98dd50e59195f
+      internalID: 2049995982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_197
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 535
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9198e2004f760a546a3a3f84ae910e43
+      internalID: 1386850549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_198
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 522
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10343b3842b65e2468203358a3e38c4e
+      internalID: -1714816819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_199
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 522
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443f6c44cbefe44fa6abd92ebb3913c
+      internalID: -694548582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 522
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e44587f6ee5abc4aa4044128f03e7ae
+      internalID: 192193541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_201
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 522
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a8f392d24b2049bce3b196dc79c4e
+      internalID: 606983465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_202
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853449cb48b4a2c47a935901877e79ae
+      internalID: -1730950249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_203
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b066c3b68f646439c6909b6ad5b78f
+      internalID: 438286232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_204
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 522
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d4bfc100deab14faf3d8f748e1bee9
+      internalID: -251290461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_205
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fc653f441de424ebc684eb2b2da845
+      internalID: -1413403293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_206
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df91743c7b3eb7c45bf58fcfb1e8eaa6
+      internalID: 2056764124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_207
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 520
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306059ef7d8c8174888131976df8b054
+      internalID: 1593417230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_208
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 520
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd1c01f72133b4c8dbd9c732158f77
+      internalID: 1324915012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_209
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 522
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15693df85648e428ac422f40e5f79b
+      internalID: 996411043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_210
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 522
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071ecf9b6f791e499ad07fb9a28db41
+      internalID: -1354313897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa657465a83e542916573f2a8f772d
+      internalID: 395412822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_212
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 457
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb439728337000478d3175e9f858cf0
+      internalID: 736801025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_213
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 457
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5484c7db8cc64a82d458ff3f2bc68
+      internalID: -255910928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_214
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 457
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb38968494496b449f7c023fe50a358
+      internalID: 1094247396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_215
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 457
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba184baec5968749973fa7e77fa7a16
+      internalID: 1974958916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_216
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 498
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6652d8e90218a4886f63e1e7d6ceab
+      internalID: -1331431662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_217
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 498
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8df49532acb9c4f84a0fa7a5dfd65b
+      internalID: 2006631164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_218
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdf0455f87fa2409a4423d7af87b81
+      internalID: -1953200715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_219
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b1edb6774aaf47ba958da2585c6ad
+      internalID: -1545605378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_220
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290db9780f54e34d9c3c76e0d7393a9
+      internalID: -1942846027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_221
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd1ab9c0379124cb818c3f9ba3c282
+      internalID: -1230737825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 496
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41bfd41ff91aa745891bd727b6fe530
+      internalID: -84441240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_223
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 498
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80130f8a14be5ef4ca5650872541bcd4
+      internalID: 369659959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_224
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011bd9e0ba48124d986639028477c8d
+      internalID: 55413320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_225
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 496
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb5b419347f224093d9f24c2c05a26
+      internalID: 1445205432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_226
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d3ae2f56335a4b928ae63c4e9d2fa
+      internalID: -1515017296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_227
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 498
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3806539ccb2c224090f75df5b9d72f3
+      internalID: -1328215442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_228
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 498
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b0ec443c09304a8d885425c72ba19
+      internalID: 354535239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_229
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 498
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310feedb7530949469d59506cfc8feb0
+      internalID: 1816987970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_230
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 496
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243af8b18335ef34bab9bd2149559c76
+      internalID: -169738743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_231
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 457
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ebafc15c028c419241db018f6b53f
+      internalID: -70111918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_232
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 457
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c766b28464f0040bf99c02df0e069a
+      internalID: -1676325781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_233
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 457
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e429019510bff33419d49d812a17f2ea
+      internalID: -1252421008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_234
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 484
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e640cf53252034591ef0221209bb4f
+      internalID: 579533986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_235
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0523d9b5f70b42b4309ab4535b4f7
+      internalID: -537346113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_236
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9e69dbf207f347a483e7394acb44c
+      internalID: 1128859381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_237
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 484
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa692b140e7730468ff041843f0493e
+      internalID: 359672137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_238
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c22964375c567c468e53125733749e1
+      internalID: 250782480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_239
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 484
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665eadd0d232834b99e7f039f55c80c
+      internalID: 1430099529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_240
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044aa128b4e9c8408da581b48adb2f5
+      internalID: 294623973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_241
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60394e55c5b4c4b84ec4b4ab627579
+      internalID: -6734392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_242
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 484
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15894426ee96845b37e8a3fee3462e
+      internalID: -499714756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_243
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 484
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f31d14b78617b4e9cd1fe8eccf3836
+      internalID: 1993017078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_244
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 484
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d243bb1d85b245841a1eab16a4eac
+      internalID: -944566216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_245
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 469
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41798df3aa58542a244d41236cfefd
+      internalID: 849330812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_246
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 469
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7aea8ff392d7439e9768f4e786c18
+      internalID: -302506409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_247
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 469
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3852c0e490c994f815571b0761197d
+      internalID: -1201766987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_248
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 469
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa4bfe146bbef43b5e8c0d47b191a9
+      internalID: 1198123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_249
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b11f3f8b5cabb4bb2057fa4bb02ea7
+      internalID: -847595578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_250
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 467
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc6beff4192e543af48863cfe68c13
+      internalID: 485219377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_251
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 469
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b860328c6d174d9090f01d405abf8
+      internalID: 2124085777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_252
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214a1de8c8233f4c9dd714bded052c1
+      internalID: -572396579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_253
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 469
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403977b733e12a1458c19a7da539bfcf
+      internalID: 1834887580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_254
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4807693e0b9441b9e8b7db0696a44
+      internalID: -650130537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_255
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 469
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83edf40a7b228145a3a7e80078cd112
+      internalID: 275023359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_256
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a14a63807be284bb57815fe2f9bb34
+      internalID: -2087087813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_257
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208f3e0ef31e2534c80e06159b3f6d69
+      internalID: 1505234224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_258
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 469
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138ca8f4940e2346b92bc635fe03f8a
+      internalID: -584826195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_259
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 398
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d66e6d21827942896f529fb5258d6
+      internalID: 25660335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_260
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 395
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2787233e511d64fbe3414587e6cb68
+      internalID: -1281709428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_261
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 392
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb651eb6796544db619efa24c1cc19
+      internalID: -15274989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_262
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 391
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfb44ba4182144aa70c6707ad0612e
+      internalID: -2144722437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_263
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 393
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb7d6c932dde340a9775411cc1e258
+      internalID: 1566116303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_264
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 395
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2493afa4d03f24db0b2bdb81b18c09
+      internalID: -1941005436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_265
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 394
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0952644b8c2a34391f5810b4398eec
+      internalID: -630033234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_266
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 393
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b500e98b4daf1b4f9115856b0fa3079
+      internalID: 1643489219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_267
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 390
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262cf5ca1bedb3640a5c0fec8f616e02
+      internalID: 1843743323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_268
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 391
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bd16cf82edd94cb0ebcb6d2781cda
+      internalID: 1921422773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_269
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 394
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd8c58c747cb242bea3906fa6966b4
+      internalID: -454714801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_270
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 332
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb04c82aa51a3f4dabc40e6587fb10e
+      internalID: 322459543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_271
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 332
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18e371f0cbe10e468b6b282b18299f8
+      internalID: 305154076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_272
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 332
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b60668ca0d1374d973c40101cc314d
+      internalID: 1192416319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_273
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 333
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d647955001cf44851b6324d1fb117
+      internalID: -1349715575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_274
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 332
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bec07d618d3c542b2d733cdffac24f
+      internalID: 1220855149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_275
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 331
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6049783d1ee14724e8a0fd903400429b
+      internalID: 592841674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_276
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 331
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36347aa4d0990545b637c1b30ebf3e3
+      internalID: -908766096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_277
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 331
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e543d4e7d5d545b2816d38d9250bf
+      internalID: -710463629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_278
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 271
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e12e030420c24fb08c6a0323de987
+      internalID: 749296524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_279
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 272
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ab09e32343384f9898194b8374116
+      internalID: -23851536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_280
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387a1437b6352645a1281258014894e
+      internalID: 2032675285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_281
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 271
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0509154fd04fd040a6ef389f42d9977
+      internalID: 733948563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_282
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 273
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc6add8077ff14c9d83ce3806b1ea3
+      internalID: 1255700844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_283
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 273
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638f0e5c9a6cf649b3d4c83662dd455
+      internalID: 355344635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_284
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 273
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974779275599f64e8f1643561e36d65
+      internalID: 1019721508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_285
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 273
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123b15d786731a43ab219feb3104f20
+      internalID: -1590897305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_286
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c6e3ac8afa5040a2291695aeff7f0
+      internalID: 1768834705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_287
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 217
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c08c5d20219442ba2fdf584e32ec8
+      internalID: 439630365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_288
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 217
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2cab55023ca9d4eb65d98ca1a60c7f
+      internalID: 1444053800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_289
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 217
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05b10295ac5fae45a15ff2c42b515d6
+      internalID: 728758977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_290
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 217
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6b9dd18fa87341a24ca12af9385b6
+      internalID: -870644144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_291
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 217
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9075be3a3bdc443aa44a6bf1a5fe2a
+      internalID: -1925772067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_292
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 217
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d965bd29848d747a7e39ae11f738bf
+      internalID: -239032485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_293
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 217
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a577b9cc83ee4f54c92a81fdb6e84577
+      internalID: 1940617037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_294
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdabd595a581b0c44841ccd7638575eb
+      internalID: 1529114116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_295
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409d1abe20032146a7ae49b0bc13545
+      internalID: -938416960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_296
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6259cf3df30042ab9cf70103eb47b
+      internalID: -30785162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_297
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f51a1a7f710ee34ea35cf4f82f65f0a
+      internalID: -376494059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_298
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd7f585ddd0c0448350734e63750cc
+      internalID: 1078937498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_299
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 150
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1e7f72ba30004c81b39765db8dd78
+      internalID: 2003536394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_300
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 150
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a644ed9083254da69ce2cf589572e
+      internalID: -74192027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_301
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 146
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a3b460f4e1a044b7e9ec70f92e90b
+      internalID: 473063677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_302
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8494b06614954498cef96cf2ca8d3
+      internalID: 117300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_303
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed45001c948564790bef53a4315d93
+      internalID: 1893648175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_304
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012030b22a11d241813807aaf66415f
+      internalID: 1445931293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_305
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa2882648a895546a659bc33ef318af
+      internalID: 769495209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_306
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 69
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9f3a6d0d9c72459bf0541f50034e6
+      internalID: -164388195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_307
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 68
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0670be420f3296408d8559d09f8abc5
+      internalID: 165573765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_308
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 68
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba1cceb98aa284a8603838a2f6667b
+      internalID: 1412574948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_309
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6788fbcb311fa941b303e48b3acb2b1
+      internalID: -792587233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_310
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469377019b35ee640b0dc9d30398ec8c
+      internalID: 1031761941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_311
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d07dc19789ee408a880a64eb52d4b
+      internalID: 741473120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_312
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9bffaa6db964144b19b5c859a65c56
+      internalID: -1604070573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_313
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed5094582de3764ebd608bc50eda5f7
+      internalID: 1008811721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_314
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 5
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4364440bc46bfb46846ba980de89c5f
+      internalID: 937211484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_315
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 5
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d2cc4944d42df42b01a7fa0cff9756
+      internalID: -271785582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_316
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb1ea507d89db444b0de1d9b1f17a29
+      internalID: 837214680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_317
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a3867e51a5ad4ab1716b74e80d527
+      internalID: -1194305463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss megaman_318
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b75fa1ac901184e9f79e78538c2e73
+      internalID: 1906308682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boss megaman_0: 1404454556
+      boss megaman_1: 1582786105
+      boss megaman_10: -578359279
+      boss megaman_100: 2016901053
+      boss megaman_101: 1124356668
+      boss megaman_102: 507285962
+      boss megaman_103: -2000293298
+      boss megaman_104: -1219902225
+      boss megaman_105: 452889740
+      boss megaman_106: -1673445683
+      boss megaman_107: 1183506387
+      boss megaman_108: -86749670
+      boss megaman_109: 1983701599
+      boss megaman_11: 676217598
+      boss megaman_110: 339232971
+      boss megaman_111: -590830932
+      boss megaman_112: 1425668945
+      boss megaman_113: -2016322892
+      boss megaman_114: 461566968
+      boss megaman_115: 715035938
+      boss megaman_116: 1641933899
+      boss megaman_117: 382441542
+      boss megaman_118: 188836762
+      boss megaman_119: -1145913987
+      boss megaman_12: -1408810978
+      boss megaman_120: -1560271523
+      boss megaman_121: -2099613372
+      boss megaman_122: -761101221
+      boss megaman_123: 1198460004
+      boss megaman_124: -1066371088
+      boss megaman_125: 545260128
+      boss megaman_126: -1661213409
+      boss megaman_127: -870876758
+      boss megaman_128: 1027223762
+      boss megaman_129: -1753677894
+      boss megaman_13: -2060299079
+      boss megaman_130: 1601024668
+      boss megaman_131: -1891926008
+      boss megaman_132: -1145708282
+      boss megaman_133: -14647033
+      boss megaman_134: 99568223
+      boss megaman_135: 958446369
+      boss megaman_136: -469069317
+      boss megaman_137: -1026482358
+      boss megaman_138: -1133457372
+      boss megaman_139: 796854207
+      boss megaman_14: -1203639594
+      boss megaman_140: 1768870235
+      boss megaman_141: -283810120
+      boss megaman_142: -184617969
+      boss megaman_143: 732641033
+      boss megaman_144: -1157863780
+      boss megaman_145: -1542901153
+      boss megaman_146: -1731204221
+      boss megaman_147: 1453382835
+      boss megaman_148: -1405816092
+      boss megaman_149: 537482886
+      boss megaman_15: -1671966038
+      boss megaman_150: -1297611123
+      boss megaman_151: -686513833
+      boss megaman_152: 1234489355
+      boss megaman_153: 1748696387
+      boss megaman_154: 1015671452
+      boss megaman_155: 488228848
+      boss megaman_156: -1232483967
+      boss megaman_157: 991629432
+      boss megaman_158: 741665591
+      boss megaman_159: -837060457
+      boss megaman_16: 100695845
+      boss megaman_160: 2126787242
+      boss megaman_161: -1272911420
+      boss megaman_162: 1115946478
+      boss megaman_163: 1246799975
+      boss megaman_164: 481250884
+      boss megaman_165: 1423785208
+      boss megaman_166: 1257225922
+      boss megaman_167: 222580202
+      boss megaman_168: -1430919264
+      boss megaman_169: -1010003303
+      boss megaman_17: 604640545
+      boss megaman_170: 1173329241
+      boss megaman_171: -1838167083
+      boss megaman_172: 585883615
+      boss megaman_173: 1794923050
+      boss megaman_174: -26191924
+      boss megaman_175: 781004370
+      boss megaman_176: 1331817436
+      boss megaman_177: 1935685331
+      boss megaman_178: -1505623589
+      boss megaman_179: -530484276
+      boss megaman_18: -526393837
+      boss megaman_180: -296861583
+      boss megaman_181: -1641895426
+      boss megaman_182: -477787732
+      boss megaman_183: 1691141775
+      boss megaman_184: 549833084
+      boss megaman_185: -231216956
+      boss megaman_186: 550370104
+      boss megaman_187: -1626761339
+      boss megaman_188: 914816650
+      boss megaman_189: -1118648942
+      boss megaman_19: 1571448976
+      boss megaman_190: -1497933760
+      boss megaman_191: 1036421708
+      boss megaman_192: 785510117
+      boss megaman_193: 105716047
+      boss megaman_194: -1766668253
+      boss megaman_195: -58265633
+      boss megaman_196: 2049995982
+      boss megaman_197: 1386850549
+      boss megaman_198: -1714816819
+      boss megaman_199: -694548582
+      boss megaman_2: -611071581
+      boss megaman_20: 1149538791
+      boss megaman_200: 192193541
+      boss megaman_201: 606983465
+      boss megaman_202: -1730950249
+      boss megaman_203: 438286232
+      boss megaman_204: -251290461
+      boss megaman_205: -1413403293
+      boss megaman_206: 2056764124
+      boss megaman_207: 1593417230
+      boss megaman_208: 1324915012
+      boss megaman_209: 996411043
+      boss megaman_21: -1372638852
+      boss megaman_210: -1354313897
+      boss megaman_211: 395412822
+      boss megaman_212: 736801025
+      boss megaman_213: -255910928
+      boss megaman_214: 1094247396
+      boss megaman_215: 1974958916
+      boss megaman_216: -1331431662
+      boss megaman_217: 2006631164
+      boss megaman_218: -1953200715
+      boss megaman_219: -1545605378
+      boss megaman_22: 1852697688
+      boss megaman_220: -1942846027
+      boss megaman_221: -1230737825
+      boss megaman_222: -84441240
+      boss megaman_223: 369659959
+      boss megaman_224: 55413320
+      boss megaman_225: 1445205432
+      boss megaman_226: -1515017296
+      boss megaman_227: -1328215442
+      boss megaman_228: 354535239
+      boss megaman_229: 1816987970
+      boss megaman_23: -884620658
+      boss megaman_230: -169738743
+      boss megaman_231: -70111918
+      boss megaman_232: -1676325781
+      boss megaman_233: -1252421008
+      boss megaman_234: 579533986
+      boss megaman_235: -537346113
+      boss megaman_236: 1128859381
+      boss megaman_237: 359672137
+      boss megaman_238: 250782480
+      boss megaman_239: 1430099529
+      boss megaman_24: 1381095677
+      boss megaman_240: 294623973
+      boss megaman_241: -6734392
+      boss megaman_242: -499714756
+      boss megaman_243: 1993017078
+      boss megaman_244: -944566216
+      boss megaman_245: 849330812
+      boss megaman_246: -302506409
+      boss megaman_247: -1201766987
+      boss megaman_248: 1198123
+      boss megaman_249: -847595578
+      boss megaman_25: -1599394162
+      boss megaman_250: 485219377
+      boss megaman_251: 2124085777
+      boss megaman_252: -572396579
+      boss megaman_253: 1834887580
+      boss megaman_254: -650130537
+      boss megaman_255: 275023359
+      boss megaman_256: -2087087813
+      boss megaman_257: 1505234224
+      boss megaman_258: -584826195
+      boss megaman_259: 25660335
+      boss megaman_26: 891803400
+      boss megaman_260: -1281709428
+      boss megaman_261: -15274989
+      boss megaman_262: -2144722437
+      boss megaman_263: 1566116303
+      boss megaman_264: -1941005436
+      boss megaman_265: -630033234
+      boss megaman_266: 1643489219
+      boss megaman_267: 1843743323
+      boss megaman_268: 1921422773
+      boss megaman_269: -454714801
+      boss megaman_27: -1313245373
+      boss megaman_270: 322459543
+      boss megaman_271: 305154076
+      boss megaman_272: 1192416319
+      boss megaman_273: -1349715575
+      boss megaman_274: 1220855149
+      boss megaman_275: 592841674
+      boss megaman_276: -908766096
+      boss megaman_277: -710463629
+      boss megaman_278: 749296524
+      boss megaman_279: -23851536
+      boss megaman_28: -1366307316
+      boss megaman_280: 2032675285
+      boss megaman_281: 733948563
+      boss megaman_282: 1255700844
+      boss megaman_283: 355344635
+      boss megaman_284: 1019721508
+      boss megaman_285: -1590897305
+      boss megaman_286: 1768834705
+      boss megaman_287: 439630365
+      boss megaman_288: 1444053800
+      boss megaman_289: 728758977
+      boss megaman_29: 2064775182
+      boss megaman_290: -870644144
+      boss megaman_291: -1925772067
+      boss megaman_292: -239032485
+      boss megaman_293: 1940617037
+      boss megaman_294: 1529114116
+      boss megaman_295: -938416960
+      boss megaman_296: -30785162
+      boss megaman_297: -376494059
+      boss megaman_298: 1078937498
+      boss megaman_299: 2003536394
+      boss megaman_3: -1009144114
+      boss megaman_30: 820319252
+      boss megaman_300: -74192027
+      boss megaman_301: 473063677
+      boss megaman_302: 117300952
+      boss megaman_303: 1893648175
+      boss megaman_304: 1445931293
+      boss megaman_305: 769495209
+      boss megaman_306: -164388195
+      boss megaman_307: 165573765
+      boss megaman_308: 1412574948
+      boss megaman_309: -792587233
+      boss megaman_31: -1619902646
+      boss megaman_310: 1031761941
+      boss megaman_311: 741473120
+      boss megaman_312: -1604070573
+      boss megaman_313: 1008811721
+      boss megaman_314: 937211484
+      boss megaman_315: -271785582
+      boss megaman_316: 837214680
+      boss megaman_317: -1194305463
+      boss megaman_318: 1906308682
+      boss megaman_32: 1805067272
+      boss megaman_33: 314661278
+      boss megaman_34: -1350033457
+      boss megaman_35: 505469021
+      boss megaman_36: 535816312
+      boss megaman_37: 168740328
+      boss megaman_38: -1932920703
+      boss megaman_39: 1561706794
+      boss megaman_4: -2022101747
+      boss megaman_40: -1572277514
+      boss megaman_41: -1777149184
+      boss megaman_42: 1286338274
+      boss megaman_43: 1208611321
+      boss megaman_44: 294554927
+      boss megaman_45: 1752884971
+      boss megaman_46: -1167471437
+      boss megaman_47: -413094769
+      boss megaman_48: -610040875
+      boss megaman_49: -1285729461
+      boss megaman_5: 1244513337
+      boss megaman_50: -466203348
+      boss megaman_51: -1473004868
+      boss megaman_52: 1657618991
+      boss megaman_53: 548378542
+      boss megaman_54: -1967846508
+      boss megaman_55: 1946042269
+      boss megaman_56: -661528348
+      boss megaman_57: 1290280947
+      boss megaman_58: -1565813659
+      boss megaman_59: -1406500298
+      boss megaman_6: 625377591
+      boss megaman_60: -1187273083
+      boss megaman_61: 1051006540
+      boss megaman_62: 457153144
+      boss megaman_63: -2072684678
+      boss megaman_64: -600115183
+      boss megaman_65: 1850545253
+      boss megaman_66: -198273918
+      boss megaman_67: -1573802386
+      boss megaman_68: -1518730414
+      boss megaman_69: 1576730617
+      boss megaman_7: 1126216967
+      boss megaman_70: -886712589
+      boss megaman_71: 1554855645
+      boss megaman_72: -894635262
+      boss megaman_73: 1160079524
+      boss megaman_74: -1065513653
+      boss megaman_75: -1718691017
+      boss megaman_76: -1616802170
+      boss megaman_77: -1801997072
+      boss megaman_78: -642161203
+      boss megaman_79: 2091556708
+      boss megaman_8: -2040708584
+      boss megaman_80: 539435244
+      boss megaman_81: -1273706200
+      boss megaman_82: 295501430
+      boss megaman_83: -358266489
+      boss megaman_84: 616520278
+      boss megaman_85: 1411921432
+      boss megaman_86: 1229908695
+      boss megaman_87: 236366690
+      boss megaman_88: 1878522651
+      boss megaman_89: 1636180575
+      boss megaman_9: -191119170
+      boss megaman_90: 2134902523
+      boss megaman_91: -1356270871
+      boss megaman_92: 449834709
+      boss megaman_93: -571187656
+      boss megaman_94: -1870915222
+      boss megaman_95: -747799940
+      boss megaman_96: -263693099
+      boss megaman_97: 1209766164
+      boss megaman_98: -345361130
+      boss megaman_99: 1183627154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
