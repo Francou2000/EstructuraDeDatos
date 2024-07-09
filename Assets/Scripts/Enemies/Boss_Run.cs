@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Boss_Run : StateMachineBehaviour
@@ -40,7 +41,6 @@ public class Boss_Run : StateMachineBehaviour
         if (attackCount >= 5)
         {
             attackCount = 0;
-
 
             animator.SetTrigger("Range");
         }
