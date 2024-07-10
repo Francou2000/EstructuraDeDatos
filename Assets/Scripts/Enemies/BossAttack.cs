@@ -11,6 +11,10 @@ public class BossAttack : MonoBehaviour
     public float attackRange = 1f;
     public LayerMask attackMask;
 
+    public GameObject bullet;
+    public GameObject rangeAttackPosition;
+    public GameObject bulletSpawnPoint;
+
     public void MeleeAttack()
     {
         Vector3 pos = transform.position;
@@ -24,17 +28,14 @@ public class BossAttack : MonoBehaviour
         }
     }
 
-    public void RangeAttack()
+    public void SpawnRangeAttack()
     {
-        Vector3 pos = transform.position;
-        pos += transform.right * attackOffset.x;
-        pos += transform.up * attackOffset.y;
+        Instantiate(bullet, bulletSpawnPoint.transform.position , Quaternion.identity);
+    }
 
-        Collider2D colInfo = Physics2D.OverlapCircle(pos, attackRange, attackMask);
-        if (colInfo != null)
-        {
-            colInfo.GetComponent<PlayerState>().TakeDamage(rangeAttackDamage);
-        }
+    public void Reposition()
+    {
+        transform.position = rangeAttackPosition.transform.position;
     }
 
     void OnDrawGizmosSelected()

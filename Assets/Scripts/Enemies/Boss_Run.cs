@@ -5,10 +5,9 @@ using UnityEngine;
 
 public class Boss_Run : StateMachineBehaviour
 {
-    public float speed = 2.5f;
+    public float speed = 3f;
     public float attackRange = 3f;
-
-    [SerializeField] private int attackCount = 0;
+    public float rangeAttackRange = 10f;
 
     Transform player;
     Rigidbody2D rb;
@@ -35,13 +34,10 @@ public class Boss_Run : StateMachineBehaviour
         if (Vector2.Distance(player.position, rb.position) <= attackRange)
         {
             animator.SetTrigger("Melee");
-            attackCount++;
         }
 
-        if (attackCount >= 5)
+        if (Vector2.Distance(player.position, rb.position) > rangeAttackRange)
         {
-            attackCount = 0;
-
             animator.SetTrigger("Range");
         }
     }
