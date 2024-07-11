@@ -1,17 +1,37 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class BossHealth : MonoBehaviour
 {
-    public int health = 500;
+    public static BossHealth Instance { get; private set; }
+
+    public int health;
+    public int maxHealth = 30;
 
     public bool isInvulnerable = false;
 
+    public UnityEvent changeHealth;
+
     private Animator anim;
+
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+        else
+        {
+            Instance = this;
+        }
+    }
 
     private void Start()
     {
+        health = maxHealth;
+        changeHealth = new UnityEvent();
         anim = GetComponent<Animator>();
     }
 
@@ -21,6 +41,7 @@ public class BossHealth : MonoBehaviour
             return;
 
         health -= damage;
+        changeHealth.Invoke();
 
         if (health <= 0)
         {
