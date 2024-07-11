@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class IndexObjectData: ScriptableObject
 {
+    [SerializeField] int sortValue;
     [SerializeField] ObjType objType;
     [SerializeField] EnemyRange enemyRange;
     [SerializeField] BulletOwner bulletOwner;
@@ -14,6 +15,7 @@ public class IndexObjectData: ScriptableObject
 
     [SerializeField] Sprite mySprite;
 
+    public int SortValue => sortValue;
     public ObjType ObjType => objType;
     public EnemyRange EnemyRange => enemyRange;
     public BulletOwner BulletOwner => bulletOwner;

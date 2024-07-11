@@ -9,16 +9,16 @@ public class IndexButtonData : MonoBehaviour
     public IndexObjectData myData;
 
     TextMeshProUGUI myText;
-    public Image myImage;
 
-    void Start()
+    public void SetButtonParameters(IndexObjectData newData)
     {
+        myData = newData;
         myText = GetComponentInChildren<TextMeshProUGUI>();
         myText.text = myData.name;
     }
 
     public void SelectObject()
     {
-        myImage.sprite = myData.MySprite;
+       GetComponentInParent<IndexFilter>().SelectObject(myData.MySprite);
     }
 }
