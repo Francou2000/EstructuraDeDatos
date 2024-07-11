@@ -1,0 +1,4328 @@
+fileFormatVersion: 2
+guid: a6346e4ee1b5eb74fa53da6c515cb140
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nega_Zero_37
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1146
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeef05e88740414b9080dd35c1a1214
+      internalID: 738043147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1146
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268043ed7998a640a612a7d2c5838d3
+      internalID: 1905217483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_39
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1146
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b7a9711db59f4385a9f916dd1fdd6
+      internalID: -842022355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_40
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1146
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d65163b3a60644ab7fa553e7ea994
+      internalID: 780619544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_49
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1146
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef563d6e790922244b242808b4135cae
+      internalID: 934636094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_50
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1146
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551d9cdf2fcf854e8de98bae0094faf
+      internalID: 510931555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_52
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1146
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ce6959d95166946a524812e7e8ce60
+      internalID: 1147422573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1080
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9061048ea2714ff4cb681d44261bc9ee
+      internalID: 1907688001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1080
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b583eb917d33244bb2d6fcaffef4e65
+      internalID: 652440652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1080
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2039c28153eecb44acfc6e276c7cdea
+      internalID: 1991649326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1080
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0558ac10e36324743ae83eb5ccf1a881
+      internalID: 1720314941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1080
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a730d052e2a57044ae789e2483add43
+      internalID: 525655522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1080
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87c4cbdc4fefb045b3a7a4c6a4e3daf
+      internalID: 1535902040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1080
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc7940939519841b3e81ac59b2d414
+      internalID: 1565454562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1080
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48e42d16467f84781429a4c447c488
+      internalID: -569740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1080
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25363bd1461cf944581e351fd9b36d77
+      internalID: -1690712118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_303
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 631
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899767987e69caf4699d0778f75517e8
+      internalID: 1395809534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_304
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 631
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce5a9e591b4d324cb563d33e080079a
+      internalID: -1027915492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_305
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 631
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d8bba7099c594695d9924919339ff
+      internalID: -297072240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_317
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 631
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e41622cd65be04085a4a230a4d1170
+      internalID: 885615284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_318
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 631
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1a0f804400d247bfb7a92a7f8a2a6
+      internalID: -1967925715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_495
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 351
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311911a8fd172f49bf972682d495d0b
+      internalID: -712013745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_496
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 351
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5187bcb4c1699149b01a11e2bbd6bf0
+      internalID: 2013597532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_497
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 351
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05849403aa84572489cde37be2faf5ca
+      internalID: -1897069108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_498
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 351
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2523f1bf029bc04478bb9ecc719401c0
+      internalID: -1987497258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_499
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 351
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a777f08f7254489740bb7c27952d2
+      internalID: -1631471614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_500
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 351
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1482f304e33f941b87366886535994
+      internalID: 312057310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_501
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 350
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f058a78228219d4dacc7537ff87034f
+      internalID: -2076333017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_502
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 350
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd91fb9def0c24eb1e8edca1786eb4
+      internalID: 132101478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_503
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 350
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe442eeec8e234a4cb797290af75ac13
+      internalID: 1531877801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_504
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 350
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e56f7ea0755194698d7a146d48c3ba
+      internalID: 110003762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_513
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 289
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962aab32761ba64fbec777c8d7340da
+      internalID: 1797413183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_514
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 289
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a739cc9345ce479df1bd1a3a09ad1
+      internalID: 2110415426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_515
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 289
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe216a5548a5ed4a81cddf611427e2a
+      internalID: 1268130168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_516
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 289
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5490cf861efb63449deb37f43f273a1
+      internalID: 120364837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_517
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 289
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc827f100fcfbee4baf4685eb5414e3b
+      internalID: 1368390167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_518
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 289
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54933ed7ae0e074386342b670ac95d6
+      internalID: -2128647272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_519
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 289
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bbe379bcab11146b977403e950a17f
+      internalID: -346616600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_520
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 289
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da78dfabfbba33845b638d68f6f0dec1
+      internalID: -1873685856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_521
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 289
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c75a3e3be5074d9ffdb044bcb0a07
+      internalID: -1982520914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_610
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 85
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c6035640e9834c802a540487b2ca6
+      internalID: 940409121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_611
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 83
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbbca40abebb84b895642f8e1caa48
+      internalID: -2053962155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_612
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30bebee04dfc1d4ab00514a78193a51
+      internalID: -618745597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_613
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 85
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da35a09a08464e46886c23ffa43436f
+      internalID: -751200832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_614
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 85
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2adf9e896ef54280fe839b5b060b5
+      internalID: 1145276833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_615
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 85
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a43151bf7c3e46bb6427c180a7d62
+      internalID: -2020710889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_616
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 83
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064c04b335500d47947cc90234ea078
+      internalID: -692659829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_617
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 85
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940135f5669ab824a92598fe82ff7765
+      internalID: -1616287519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_618
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 85
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014df9f428db9704a956e4bbca660cfa
+      internalID: -65281188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_619
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 85
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f50d6854b0c06b47ab30de435875b26
+      internalID: -45471220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_620
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 85
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75220c92c0b23479defa79143c7e30
+      internalID: 1866280204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_621
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6c7c2bff37be4988ddcb4faf7323e
+      internalID: 2094211512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_622
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f032d932b81c0d48a507eb52c0511ff
+      internalID: 571582785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_623
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 71
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30686f0cb48164cb0f7ad5de8ac5ca
+      internalID: -1312176097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_624
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b80143586d154c9a568a60e6dc1d4
+      internalID: 1682158663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_625
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 73
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb1a674b396034b970daecb5aebe60
+      internalID: 722071312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_626
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90cabba8f933a743a2225d820a3b0cf
+      internalID: 1031242767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_627
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ea922292788b4284b3a4947e6d4fb
+      internalID: -59465784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_628
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221fd69e25833aa428b24620aa060539
+      internalID: -106701464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_629
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796f670ccf041542a31098a7aec23ee
+      internalID: 45799674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_630
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 73
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf45cfe5f33b9498ea357b460911f5
+      internalID: 385340776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_631
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 73
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eac7e3e471578408f08400cae2590d
+      internalID: -1719290295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_632
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 73
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea41df05d27b143b8d7ecf0328cb8e
+      internalID: 1089773253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_633
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 73
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b2912078036349836c39dc4d03988
+      internalID: -517097726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_634
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 71
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b9e0d7d986504e8422feb21f014a4
+      internalID: 477247818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_635
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaec68630520efc43b0523c7a2416c4c
+      internalID: -276209649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_636
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 73
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001a75934702744fb459e787594cb76
+      internalID: 1826588004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_637
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c7fa35611797540ad0aa6c999811b5
+      internalID: -420892088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_638
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a4184ea08d5ea4784aaae43747e659
+      internalID: -246673052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_639
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 73
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3bebfe94ac9e9429de9765fb2142f0
+      internalID: 654457751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_640
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 73
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab077661d772154a9348b8f9d802bf6
+      internalID: -76046995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_654
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 60
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5d29278c8b534899ec1d9affff67f
+      internalID: 606360669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_655
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 60
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7bcbcd0b814349a532db37ea0f360
+      internalID: -2073825905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_656
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 60
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469c54e593302d419fdac5aa798623c
+      internalID: 55316496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_657
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 60
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8203b57389bf342818ed0ec1aa23ea
+      internalID: 767045305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_658
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 60
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd725b9d96e41bf4da0f57659fee633b
+      internalID: 1192140494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_659
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 60
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e78e2ec236ecc4c9f972e76e1ed752
+      internalID: -798159921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_660
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 60
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643a49b905a7be41b5d7e0836e3d7ca
+      internalID: -803364808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_661
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 60
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b744d5695f334d9825a33457c6e6c
+      internalID: -1931492151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_662
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 60
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e7e4d76bf90194889146c24f734427
+      internalID: -928680533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_663
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 60
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e1e3a79e4d814d83846c996e8552d
+      internalID: 1057742152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_664
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 47
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf53c32cb9e93747884f5c77e74f93b
+      internalID: 2003515432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_665
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dad126e12c22c4e995fd4a6586b648
+      internalID: 108354314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_666
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638d8c94cc9911d469ca7a6779e922fd
+      internalID: 1704432187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_667
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee58bf20eedcdd4792d49c5cd0d6b8f
+      internalID: 1661155022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_668
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92ccf6542740e4cacc54cbecd04e49
+      internalID: -2119827996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_669
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 47
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa6f000820b8d44ade97c97e4d6bd5
+      internalID: 524908103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_670
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638862346fcd2c7479b1fa3134c28cf6
+      internalID: 1334113008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_671
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4188d3b8ded0a4480a8f0f43ddd58c
+      internalID: -1886475083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_672
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 45
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c7fad9c447174985e24aac9a8a900
+      internalID: 729620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_673
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 47
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8edc3cf18907a48813fcfd352fd3a0
+      internalID: -2144679365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_674
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 47
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c4f0baea7f1c479917569d64b2fae
+      internalID: 1126511429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_675
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a3b327cd150746999e8551837cbc0
+      internalID: -1042713061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_676
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27493994901c5954399adadc899c184a
+      internalID: -1065192964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_677
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 46
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e17907998c4a845b1d69c6d257dfa8
+      internalID: -861227099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_678
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 47
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1191242f0808c649a8a27a699c3f531
+      internalID: 1886650569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_679
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f936a572bca014d8b843a603a3ed1a
+      internalID: 874219901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_680
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c0d07a478fd84f8aa2f271d203447
+      internalID: -200149287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_681
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec82ee79aeded643a64d20d814a2501
+      internalID: -40764499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_682
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 47
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabaf55f4b9b62d459445ff01b595bd5
+      internalID: 726803944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_683
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071703982b910e645bb749a7053fbe61
+      internalID: 1929793331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_684
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959d554ced2a244b96bef7816b656df
+      internalID: -277156150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_685
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f47cb813f1aa4296eb5a18e39c9df
+      internalID: 199193742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_686
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b774a26259cd6449a533923896ef2c
+      internalID: -828261746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_687
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a3416dbc2d214aac95e20eb1def33
+      internalID: 1184198966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_688
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940334e6c575bb42903c13d13b16aaf
+      internalID: 1225592534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_689
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88642bf2956a29849be32929be2bc41c
+      internalID: 881198879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_690
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37920baa849a3b48aaeb3a285ff3515
+      internalID: -1652303221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_691
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f9fd27641a664f9361c4363547c65
+      internalID: 2101407930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_692
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef5c15add9f6a418e0c53c23781c8d
+      internalID: 174994419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_693
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e42e02fbf795f4998fe7ab896b14fe
+      internalID: 160431768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_694
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a53b001e544a6419027f752a069ed1
+      internalID: 1422180421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_695
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 32
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70c86255a57d747b10dc009d5b3492
+      internalID: -194518714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_696
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f970774daf61e94984e25ef648482d4
+      internalID: 420729899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_697
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f26666ec0ffad4cb802f3a20eab24b
+      internalID: 574467838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_698
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 34
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8aca8a3151aa48a9c7e22ca258e98
+      internalID: 494511838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_699
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 34
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa82732097a6a84895bf12c3c26fcdc
+      internalID: -1218755754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_703
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a18ea7c0a27e4a86bcfe51bc94494
+      internalID: -879788274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_704
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1efc95a8179de4aa5eb8e84d8cc51b
+      internalID: -110176360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_705
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e478f1202d79a428a59e52febc7f85
+      internalID: -986632745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_706
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc55e30936050d4b9c642d833841854
+      internalID: 1009436311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_707
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996898e022a980b469cc59fb423e531b
+      internalID: 1153476333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_708
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3524c52922eb479652046b34b6193
+      internalID: -2091847264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_709
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711a37dcad24a6e4aa2b43a116485f6b
+      internalID: 1426234698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_710
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fd5fb63253f44a8351f3bfd20a361
+      internalID: 1313589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_711
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d91509b88e8d439957f235e04fe5d
+      internalID: -1417655955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_712
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de18a57695fca498d24059b8824f53
+      internalID: -852195510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_713
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd451b3f94fc943ac67be118a44823
+      internalID: 842774691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_714
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105cff435060014583cb2f78e8b2ce9
+      internalID: -1830884353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_715
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fff101fb15414ab71b60ad971e14b
+      internalID: 1014652918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_716
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba545eb833bd14ab4609cc2cbc2320
+      internalID: 418129606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_717
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41edac6d7d8a28d4db94460a83014722
+      internalID: 726100794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_718
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4284ac7b265f8149b7a10b002303131
+      internalID: -1507587552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_719
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a64ec703cd744c807a0ce02af8525
+      internalID: -1776227160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_720
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38afbaec68d56624d8a67e66cef44ba8
+      internalID: 2084128588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_721
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3529f125b2254ea76fee16deb0c91
+      internalID: 121192966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_722
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e452be164e8c2142a492139b03c70b5
+      internalID: -831704471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_723
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb9fd9ac8f0fbb4f87bb2d419e61049
+      internalID: -751524533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_724
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc050831e85ea4491dcd003255edba
+      internalID: -2117870349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_725
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6592af767c644caf2d60cb67f53c5
+      internalID: -1601041927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_726
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3ced7dff75704ca48b2f27c0c4ff6
+      internalID: 1765330908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_727
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5331c723b14664e9af7ee44ded22ac
+      internalID: 1306800144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_728
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a9e67e73333e48a6b8d49212cf507
+      internalID: -2054504182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_729
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e155aa57bbac9e48ac8ed55b0f242e0
+      internalID: -1140354284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_730
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2d86994a639241b7924907898e856
+      internalID: 1092123231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_731
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eab8df5778eea043a61bffb5186040d
+      internalID: -1475010947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_732
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1819e42ad7ae74348b1fe753855876d0
+      internalID: 112974896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_733
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38260df8d3b5941b96e5e968dfd83f
+      internalID: -447955158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_734
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c478b8d5230f32499057d305d7fb520
+      internalID: 590062989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_735
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9dca5aa16d001468cb96598082c32e
+      internalID: 1686774931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_736
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 9
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd66b37901722e45ae1023d822394c2
+      internalID: -1415457765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_737
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a8df4b82cccf49ae8960c469a3105
+      internalID: 1601103289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_738
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b0ffe2933cbd149b59eb21a259cad8
+      internalID: -491937997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_739
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da704a61141949d4f9a47c1785bf7498
+      internalID: -210353069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 631
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1c66500bf00448b4f27ef1e7cf67b
+      internalID: 343104194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1185
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6827139b38391c4da83e4ad3487c7cd
+      internalID: -1158256681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1185
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bbe5fd504d9184ebc74786e6f7dc9e
+      internalID: 2098019666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1185
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4100717ac26b9e479c03115705b9b3a
+      internalID: 2100225497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1185
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96410f1b0bf24b45b5a21270438b871
+      internalID: -362446032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1185
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9203db216fbede44af79f5dfca8c628
+      internalID: -2089178138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1185
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f5270ede32fc44b94bee2b480a94c
+      internalID: -2105256785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 563
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613a3ca88ebf1054d97c875457cea8d2
+      internalID: -780134287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 563
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1373dc4813cb59644afd6a09a7106182
+      internalID: -832388995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 563
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d685c3eabf673a4d81afb45fabd9f91
+      internalID: -1083940114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nega_Zero_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 563
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ed1798bd7ef548928b37d0b4e427a
+      internalID: 1038104324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nega_Zero_0: 343104194
+      Nega_Zero_1: -1158256681
+      Nega_Zero_10: 1038104324
+      Nega_Zero_100: 1889763779
+      Nega_Zero_101: 103377938
+      Nega_Zero_102: -1539324564
+      Nega_Zero_103: -786383016
+      Nega_Zero_104: -464368735
+      Nega_Zero_105: -1065766489
+      Nega_Zero_106: -1502981891
+      Nega_Zero_107: -909586581
+      Nega_Zero_108: 1425778626
+      Nega_Zero_109: 176437097
+      Nega_Zero_11: 962004828
+      Nega_Zero_110: -1020773351
+      Nega_Zero_111: 1186975331
+      Nega_Zero_112: -1036250185
+      Nega_Zero_113: 1075742057
+      Nega_Zero_114: 660259270
+      Nega_Zero_115: 2043352271
+      Nega_Zero_116: -1662140908
+      Nega_Zero_117: 1452263239
+      Nega_Zero_118: -998033992
+      Nega_Zero_119: -1614488343
+      Nega_Zero_12: -1189168163
+      Nega_Zero_120: 641307927
+      Nega_Zero_121: -2099529036
+      Nega_Zero_122: -2056759506
+      Nega_Zero_123: 596663374
+      Nega_Zero_124: 1210906562
+      Nega_Zero_125: 1334489746
+      Nega_Zero_126: -667975167
+      Nega_Zero_127: -1552454507
+      Nega_Zero_128: -747023104
+      Nega_Zero_129: 1218562106
+      Nega_Zero_13: 1346934045
+      Nega_Zero_130: 332359729
+      Nega_Zero_131: -1318986957
+      Nega_Zero_132: 1826217276
+      Nega_Zero_133: -982750607
+      Nega_Zero_134: -1357598420
+      Nega_Zero_135: 1890295537
+      Nega_Zero_136: -84179908
+      Nega_Zero_137: 2012553338
+      Nega_Zero_138: -1096983210
+      Nega_Zero_139: -977772150
+      Nega_Zero_14: 341627481
+      Nega_Zero_140: -457057123
+      Nega_Zero_141: -1587132771
+      Nega_Zero_142: -1102720378
+      Nega_Zero_143: 2093460273
+      Nega_Zero_144: 1719950475
+      Nega_Zero_145: 80194962
+      Nega_Zero_146: -564516387
+      Nega_Zero_147: 223723160
+      Nega_Zero_148: 597275628
+      Nega_Zero_149: 1942728129
+      Nega_Zero_15: -546142883
+      Nega_Zero_150: -613060158
+      Nega_Zero_151: -1406817212
+      Nega_Zero_152: -1797933184
+      Nega_Zero_153: 1696807340
+      Nega_Zero_154: 349728336
+      Nega_Zero_155: -1731823589
+      Nega_Zero_156: 353304432
+      Nega_Zero_157: 1536679898
+      Nega_Zero_158: 2020697718
+      Nega_Zero_159: 745762549
+      Nega_Zero_16: -1684320969
+      Nega_Zero_160: 462253278
+      Nega_Zero_161: -385876463
+      Nega_Zero_162: 601452562
+      Nega_Zero_163: 1022444718
+      Nega_Zero_164: 1565793974
+      Nega_Zero_165: 2043543296
+      Nega_Zero_166: -1905626463
+      Nega_Zero_167: 513269467
+      Nega_Zero_168: 772152679
+      Nega_Zero_169: 1477055885
+      Nega_Zero_17: -20288059
+      Nega_Zero_170: -1819963156
+      Nega_Zero_171: 560414960
+      Nega_Zero_172: -437250748
+      Nega_Zero_173: -1045313940
+      Nega_Zero_174: -1422792817
+      Nega_Zero_175: 161494839
+      Nega_Zero_176: 1253183312
+      Nega_Zero_177: 742478420
+      Nega_Zero_178: -1056274711
+      Nega_Zero_179: -1047080536
+      Nega_Zero_18: 333970982
+      Nega_Zero_180: -125283896
+      Nega_Zero_181: -1801493057
+      Nega_Zero_182: -694778931
+      Nega_Zero_183: 1225439758
+      Nega_Zero_184: 1536436597
+      Nega_Zero_185: -1763105728
+      Nega_Zero_186: -709965507
+      Nega_Zero_187: -1937727016
+      Nega_Zero_188: -672257007
+      Nega_Zero_189: -1171712875
+      Nega_Zero_19: 1296423067
+      Nega_Zero_190: 1382964026
+      Nega_Zero_191: 1086061675
+      Nega_Zero_192: 924929832
+      Nega_Zero_193: 1482278659
+      Nega_Zero_194: 84417363
+      Nega_Zero_195: 885063180
+      Nega_Zero_196: 907991571
+      Nega_Zero_197: -1477651494
+      Nega_Zero_198: 616798088
+      Nega_Zero_199: -990543503
+      Nega_Zero_2: 2098019666
+      Nega_Zero_20: -1807160801
+      Nega_Zero_200: -261501914
+      Nega_Zero_201: -476067591
+      Nega_Zero_202: 555316485
+      Nega_Zero_203: 676457590
+      Nega_Zero_204: -1365664673
+      Nega_Zero_205: -2131826253
+      Nega_Zero_206: 154557162
+      Nega_Zero_207: -1144421749
+      Nega_Zero_208: -1000245006
+      Nega_Zero_209: 567092370
+      Nega_Zero_21: 1340909508
+      Nega_Zero_210: -1014082849
+      Nega_Zero_211: -1562621491
+      Nega_Zero_212: -1760572681
+      Nega_Zero_213: 2124082742
+      Nega_Zero_214: -656202202
+      Nega_Zero_215: 895372375
+      Nega_Zero_216: -840291769
+      Nega_Zero_217: -704436182
+      Nega_Zero_218: 1643299429
+      Nega_Zero_219: 882766807
+      Nega_Zero_22: 1064786290
+      Nega_Zero_220: -1768819067
+      Nega_Zero_221: 283491493
+      Nega_Zero_222: -141680875
+      Nega_Zero_223: -487788582
+      Nega_Zero_224: -1942045798
+      Nega_Zero_225: -305605808
+      Nega_Zero_226: 218545137
+      Nega_Zero_227: -162576353
+      Nega_Zero_228: -1308645289
+      Nega_Zero_229: -871045058
+      Nega_Zero_23: 463715987
+      Nega_Zero_230: -1670434881
+      Nega_Zero_231: -13083510
+      Nega_Zero_232: 932481081
+      Nega_Zero_233: 373761608
+      Nega_Zero_234: -1593661438
+      Nega_Zero_235: 240736774
+      Nega_Zero_236: -1246409070
+      Nega_Zero_237: -740891160
+      Nega_Zero_238: -1034031038
+      Nega_Zero_239: -424664122
+      Nega_Zero_24: 1303523101
+      Nega_Zero_240: 1077359059
+      Nega_Zero_241: -964760408
+      Nega_Zero_242: -1641341124
+      Nega_Zero_243: 277093927
+      Nega_Zero_244: -791989025
+      Nega_Zero_245: -1048384230
+      Nega_Zero_246: 592349027
+      Nega_Zero_247: 1840530465
+      Nega_Zero_248: -2146266663
+      Nega_Zero_249: -758173371
+      Nega_Zero_25: -1681536696
+      Nega_Zero_250: -1365707673
+      Nega_Zero_251: 549736228
+      Nega_Zero_252: -1587038914
+      Nega_Zero_253: -1486550672
+      Nega_Zero_254: -1403212494
+      Nega_Zero_255: 203015752
+      Nega_Zero_256: 191567077
+      Nega_Zero_257: 2124884108
+      Nega_Zero_258: 67126610
+      Nega_Zero_259: -286948277
+      Nega_Zero_26: 1685064774
+      Nega_Zero_260: 527014507
+      Nega_Zero_261: 1318653513
+      Nega_Zero_262: 1883672775
+      Nega_Zero_263: -1077549628
+      Nega_Zero_264: 677422157
+      Nega_Zero_265: -593829158
+      Nega_Zero_266: -996502534
+      Nega_Zero_267: -890657404
+      Nega_Zero_268: -660309206
+      Nega_Zero_269: 2128502888
+      Nega_Zero_27: 1560835629
+      Nega_Zero_270: -1940921730
+      Nega_Zero_271: 1365102138
+      Nega_Zero_272: 1885150901
+      Nega_Zero_273: 1577539714
+      Nega_Zero_274: 851660499
+      Nega_Zero_275: 1263695817
+      Nega_Zero_276: -1837468964
+      Nega_Zero_277: -1800047741
+      Nega_Zero_278: 716844195
+      Nega_Zero_279: 1617416405
+      Nega_Zero_28: 79438138
+      Nega_Zero_280: 754627803
+      Nega_Zero_281: 317862758
+      Nega_Zero_282: -1024361099
+      Nega_Zero_283: -1352090234
+      Nega_Zero_284: -1983938027
+      Nega_Zero_285: 480031301
+      Nega_Zero_286: -852445113
+      Nega_Zero_287: -1676470744
+      Nega_Zero_288: -344484594
+      Nega_Zero_289: 515671315
+      Nega_Zero_29: -2016256829
+      Nega_Zero_290: -2063612037
+      Nega_Zero_291: 675742790
+      Nega_Zero_292: 1649837238
+      Nega_Zero_293: -2123412562
+      Nega_Zero_294: 907080358
+      Nega_Zero_295: 1083212091
+      Nega_Zero_296: 1913052260
+      Nega_Zero_297: 1380565655
+      Nega_Zero_298: 1572751633
+      Nega_Zero_299: -2045029340
+      Nega_Zero_3: 2100225497
+      Nega_Zero_30: 509867656
+      Nega_Zero_300: -168774937
+      Nega_Zero_301: -1757068222
+      Nega_Zero_302: -168031149
+      Nega_Zero_303: 1395809534
+      Nega_Zero_304: -1027915492
+      Nega_Zero_305: -297072240
+      Nega_Zero_306: -151444328
+      Nega_Zero_307: 1783344881
+      Nega_Zero_308: -1765424067
+      Nega_Zero_309: -732010205
+      Nega_Zero_31: 887731810
+      Nega_Zero_310: -376441684
+      Nega_Zero_311: 1308200057
+      Nega_Zero_312: -824447829
+      Nega_Zero_313: 1101008993
+      Nega_Zero_314: 1388357568
+      Nega_Zero_315: 1950355396
+      Nega_Zero_316: 318084002
+      Nega_Zero_317: 885615284
+      Nega_Zero_318: -1967925715
+      Nega_Zero_319: 1183058606
+      Nega_Zero_32: -148559477
+      Nega_Zero_320: 35012548
+      Nega_Zero_321: 2073966440
+      Nega_Zero_322: -2045519265
+      Nega_Zero_323: -891659889
+      Nega_Zero_324: 580420898
+      Nega_Zero_325: 1112999332
+      Nega_Zero_326: -1920096686
+      Nega_Zero_327: 657769167
+      Nega_Zero_328: 590096831
+      Nega_Zero_329: 795460142
+      Nega_Zero_33: 1368383349
+      Nega_Zero_330: 840548717
+      Nega_Zero_331: -942114431
+      Nega_Zero_332: -1345540887
+      Nega_Zero_333: -1240313480
+      Nega_Zero_334: 518879144
+      Nega_Zero_335: -799045116
+      Nega_Zero_336: -582450696
+      Nega_Zero_337: -1267922851
+      Nega_Zero_338: -783042695
+      Nega_Zero_339: -2105852679
+      Nega_Zero_34: 1359786437
+      Nega_Zero_340: -668482143
+      Nega_Zero_341: -1982986121
+      Nega_Zero_342: 903213921
+      Nega_Zero_343: 1815120844
+      Nega_Zero_344: 1530412651
+      Nega_Zero_345: -221440204
+      Nega_Zero_346: -700180108
+      Nega_Zero_347: 203063027
+      Nega_Zero_348: 1581989989
+      Nega_Zero_349: 1314435943
+      Nega_Zero_35: 479014209
+      Nega_Zero_350: -263658324
+      Nega_Zero_351: 639677217
+      Nega_Zero_352: 1116306716
+      Nega_Zero_353: -209092388
+      Nega_Zero_354: 349924721
+      Nega_Zero_355: -549477080
+      Nega_Zero_356: -679822550
+      Nega_Zero_357: 1816316503
+      Nega_Zero_358: -1190586182
+      Nega_Zero_359: 1346643366
+      Nega_Zero_36: -141279301
+      Nega_Zero_360: -2106128667
+      Nega_Zero_361: 1668986400
+      Nega_Zero_362: 1037555071
+      Nega_Zero_363: 180001132
+      Nega_Zero_364: -1553776062
+      Nega_Zero_365: 467714367
+      Nega_Zero_366: -331932819
+      Nega_Zero_367: -360169985
+      Nega_Zero_368: -217964087
+      Nega_Zero_369: 1085054594
+      Nega_Zero_37: 738043147
+      Nega_Zero_370: 178667999
+      Nega_Zero_371: -45727992
+      Nega_Zero_372: -1369650497
+      Nega_Zero_373: 2054871826
+      Nega_Zero_374: 1900483734
+      Nega_Zero_375: -1599022716
+      Nega_Zero_376: -403570270
+      Nega_Zero_377: 1366800480
+      Nega_Zero_378: 1391447728
+      Nega_Zero_379: 1591864631
+      Nega_Zero_38: 1905217483
+      Nega_Zero_380: -408070310
+      Nega_Zero_381: -114377459
+      Nega_Zero_382: 1012670722
+      Nega_Zero_383: -1460084
+      Nega_Zero_384: -1997786882
+      Nega_Zero_385: 910011151
+      Nega_Zero_386: 1045609592
+      Nega_Zero_387: 716398819
+      Nega_Zero_388: 1030794818
+      Nega_Zero_389: 1444745323
+      Nega_Zero_39: -842022355
+      Nega_Zero_390: 1233611833
+      Nega_Zero_391: 1317091828
+      Nega_Zero_392: -2093843310
+      Nega_Zero_393: 1967033498
+      Nega_Zero_394: 1575604629
+      Nega_Zero_395: -1667970122
+      Nega_Zero_396: -1756455646
+      Nega_Zero_397: 1927104359
+      Nega_Zero_398: 1650052068
+      Nega_Zero_399: -500833181
+      Nega_Zero_4: -362446032
+      Nega_Zero_40: 780619544
+      Nega_Zero_400: -2042802064
+      Nega_Zero_401: 1119764213
+      Nega_Zero_402: -2098258311
+      Nega_Zero_403: -1753515697
+      Nega_Zero_404: 599349715
+      Nega_Zero_405: 2027527013
+      Nega_Zero_406: 1593965454
+      Nega_Zero_407: 1729976397
+      Nega_Zero_408: -1846209570
+      Nega_Zero_409: -1232970957
+      Nega_Zero_41: 1833382372
+      Nega_Zero_410: -79266744
+      Nega_Zero_411: 1229863144
+      Nega_Zero_412: -1740321589
+      Nega_Zero_413: -388676657
+      Nega_Zero_414: 1927493098
+      Nega_Zero_415: -1261449389
+      Nega_Zero_416: 515441224
+      Nega_Zero_417: -2135843110
+      Nega_Zero_418: -1075205688
+      Nega_Zero_419: 186589892
+      Nega_Zero_42: -1692140393
+      Nega_Zero_420: 2124076392
+      Nega_Zero_421: 925488086
+      Nega_Zero_422: -810441372
+      Nega_Zero_423: -830547022
+      Nega_Zero_424: -1350334853
+      Nega_Zero_425: -1327555470
+      Nega_Zero_426: -312285459
+      Nega_Zero_427: 253709677
+      Nega_Zero_428: -2075349505
+      Nega_Zero_429: 242806550
+      Nega_Zero_43: 1434769262
+      Nega_Zero_430: -652447468
+      Nega_Zero_431: -1766693729
+      Nega_Zero_432: -1838320830
+      Nega_Zero_433: 119304563
+      Nega_Zero_434: -1086810629
+      Nega_Zero_435: -704328209
+      Nega_Zero_436: 1773752563
+      Nega_Zero_437: 2098769463
+      Nega_Zero_438: -1597447600
+      Nega_Zero_439: 567167610
+      Nega_Zero_44: 2090678769
+      Nega_Zero_440: 1754146845
+      Nega_Zero_441: 203714639
+      Nega_Zero_442: 1396519402
+      Nega_Zero_443: 642462900
+      Nega_Zero_444: -1428722877
+      Nega_Zero_445: 62526291
+      Nega_Zero_446: 1508989155
+      Nega_Zero_447: -1792993141
+      Nega_Zero_448: 1388613366
+      Nega_Zero_449: -985961338
+      Nega_Zero_45: -735133723
+      Nega_Zero_450: 721924040
+      Nega_Zero_451: 2066183511
+      Nega_Zero_452: 552895003
+      Nega_Zero_453: -543985105
+      Nega_Zero_454: 741707927
+      Nega_Zero_455: -193727790
+      Nega_Zero_456: -1693344010
+      Nega_Zero_457: -1786156801
+      Nega_Zero_458: -786182406
+      Nega_Zero_459: 1473651126
+      Nega_Zero_46: 1686808512
+      Nega_Zero_460: 1436495036
+      Nega_Zero_461: 98999164
+      Nega_Zero_462: -274143275
+      Nega_Zero_463: -421870221
+      Nega_Zero_464: 1431122807
+      Nega_Zero_465: -1942814238
+      Nega_Zero_466: -2100459372
+      Nega_Zero_467: 1497191777
+      Nega_Zero_468: -914636479
+      Nega_Zero_469: -1102090094
+      Nega_Zero_47: 951713291
+      Nega_Zero_470: -193600897
+      Nega_Zero_471: 2001017855
+      Nega_Zero_472: 43744840
+      Nega_Zero_473: -456481378
+      Nega_Zero_474: -1304640583
+      Nega_Zero_475: -430251262
+      Nega_Zero_476: 904280998
+      Nega_Zero_477: -1816894038
+      Nega_Zero_478: -1388121608
+      Nega_Zero_479: -960303509
+      Nega_Zero_48: -1898188965
+      Nega_Zero_480: -1777343941
+      Nega_Zero_481: 1641601012
+      Nega_Zero_482: 1625407472
+      Nega_Zero_483: 2001875221
+      Nega_Zero_484: 1323004658
+      Nega_Zero_485: -990059018
+      Nega_Zero_486: -1424071011
+      Nega_Zero_487: -335404818
+      Nega_Zero_488: 733682437
+      Nega_Zero_489: -1269660620
+      Nega_Zero_49: 934636094
+      Nega_Zero_490: -660816097
+      Nega_Zero_491: 1952426508
+      Nega_Zero_492: 91140472
+      Nega_Zero_493: 294170056
+      Nega_Zero_494: 527329429
+      Nega_Zero_495: -712013745
+      Nega_Zero_496: 2013597532
+      Nega_Zero_497: -1897069108
+      Nega_Zero_498: -1987497258
+      Nega_Zero_499: -1631471614
+      Nega_Zero_5: -2089178138
+      Nega_Zero_50: 510931555
+      Nega_Zero_500: 312057310
+      Nega_Zero_501: -2076333017
+      Nega_Zero_502: 132101478
+      Nega_Zero_503: 1531877801
+      Nega_Zero_504: 110003762
+      Nega_Zero_505: -258695327
+      Nega_Zero_506: -554158363
+      Nega_Zero_507: 1518113303
+      Nega_Zero_508: 186084285
+      Nega_Zero_509: -431739352
+      Nega_Zero_51: 933675740
+      Nega_Zero_510: 1935146559
+      Nega_Zero_511: 1302617697
+      Nega_Zero_512: -6512709
+      Nega_Zero_513: 1797413183
+      Nega_Zero_514: 2110415426
+      Nega_Zero_515: 1268130168
+      Nega_Zero_516: 120364837
+      Nega_Zero_517: 1368390167
+      Nega_Zero_518: -2128647272
+      Nega_Zero_519: -346616600
+      Nega_Zero_52: 1147422573
+      Nega_Zero_520: -1873685856
+      Nega_Zero_521: -1982520914
+      Nega_Zero_522: -1140258056
+      Nega_Zero_523: -265944813
+      Nega_Zero_524: 295697931
+      Nega_Zero_525: 638449748
+      Nega_Zero_526: -1816360790
+      Nega_Zero_527: 1656993892
+      Nega_Zero_528: 621385235
+      Nega_Zero_529: 1489532216
+      Nega_Zero_53: 1674839719
+      Nega_Zero_530: -1413460547
+      Nega_Zero_531: 1108045710
+      Nega_Zero_532: 104876114
+      Nega_Zero_533: -1832706522
+      Nega_Zero_534: 1689527614
+      Nega_Zero_535: 1301986681
+      Nega_Zero_536: 487983885
+      Nega_Zero_537: 1547263359
+      Nega_Zero_538: 758007705
+      Nega_Zero_539: -2003682922
+      Nega_Zero_54: -1411717964
+      Nega_Zero_540: -385161982
+      Nega_Zero_541: -691873191
+      Nega_Zero_542: -1643257067
+      Nega_Zero_543: -291463022
+      Nega_Zero_544: 1639819787
+      Nega_Zero_545: 1670403079
+      Nega_Zero_546: 559989691
+      Nega_Zero_547: 9541800
+      Nega_Zero_548: -537733982
+      Nega_Zero_549: -1403308809
+      Nega_Zero_55: 426777547
+      Nega_Zero_550: 492334319
+      Nega_Zero_551: -1702586900
+      Nega_Zero_552: -326571490
+      Nega_Zero_553: -119263074
+      Nega_Zero_554: -751283983
+      Nega_Zero_555: -1630405198
+      Nega_Zero_556: -1036533677
+      Nega_Zero_557: -822190942
+      Nega_Zero_558: 1189241379
+      Nega_Zero_559: -1701828114
+      Nega_Zero_56: -1741919947
+      Nega_Zero_560: -1622846183
+      Nega_Zero_561: 665357362
+      Nega_Zero_562: -1341721839
+      Nega_Zero_563: -1384361585
+      Nega_Zero_564: -1933640667
+      Nega_Zero_565: 154000705
+      Nega_Zero_566: 2006089064
+      Nega_Zero_567: 1134865204
+      Nega_Zero_568: 402695090
+      Nega_Zero_569: 1980226429
+      Nega_Zero_57: -1441658179
+      Nega_Zero_570: -1647089291
+      Nega_Zero_571: -803998171
+      Nega_Zero_572: -925451178
+      Nega_Zero_573: -759588577
+      Nega_Zero_574: 436450526
+      Nega_Zero_575: 1141397054
+      Nega_Zero_576: -1086497847
+      Nega_Zero_577: 731983229
+      Nega_Zero_578: 577032099
+      Nega_Zero_579: 463205162
+      Nega_Zero_58: -1289943613
+      Nega_Zero_580: -1548013137
+      Nega_Zero_581: -1233895140
+      Nega_Zero_582: -1191500529
+      Nega_Zero_583: -1216038360
+      Nega_Zero_584: -142668053
+      Nega_Zero_585: -1978871873
+      Nega_Zero_586: -396579478
+      Nega_Zero_587: 2013073564
+      Nega_Zero_588: 628304647
+      Nega_Zero_589: -265887331
+      Nega_Zero_59: -575615376
+      Nega_Zero_590: -366599891
+      Nega_Zero_591: 937585194
+      Nega_Zero_592: -1005457225
+      Nega_Zero_593: 1493989870
+      Nega_Zero_594: 136941798
+      Nega_Zero_595: 772086545
+      Nega_Zero_596: 1882437353
+      Nega_Zero_597: 1992674438
+      Nega_Zero_598: 2116250226
+      Nega_Zero_599: -159224247
+      Nega_Zero_6: -2105256785
+      Nega_Zero_60: -1477029941
+      Nega_Zero_600: -1252864167
+      Nega_Zero_601: -220788400
+      Nega_Zero_602: -985522071
+      Nega_Zero_603: 1695528091
+      Nega_Zero_604: 1960075613
+      Nega_Zero_605: -1845201105
+      Nega_Zero_606: -319348915
+      Nega_Zero_607: 1731264713
+      Nega_Zero_608: 1797250607
+      Nega_Zero_609: 2070712051
+      Nega_Zero_61: 1988307317
+      Nega_Zero_610: 940409121
+      Nega_Zero_611: -2053962155
+      Nega_Zero_612: -618745597
+      Nega_Zero_613: -751200832
+      Nega_Zero_614: 1145276833
+      Nega_Zero_615: -2020710889
+      Nega_Zero_616: -692659829
+      Nega_Zero_617: -1616287519
+      Nega_Zero_618: -65281188
+      Nega_Zero_619: -45471220
+      Nega_Zero_62: -496764613
+      Nega_Zero_620: 1866280204
+      Nega_Zero_621: 2094211512
+      Nega_Zero_622: 571582785
+      Nega_Zero_623: -1312176097
+      Nega_Zero_624: 1682158663
+      Nega_Zero_625: 722071312
+      Nega_Zero_626: 1031242767
+      Nega_Zero_627: -59465784
+      Nega_Zero_628: -106701464
+      Nega_Zero_629: 45799674
+      Nega_Zero_63: 804328041
+      Nega_Zero_630: 385340776
+      Nega_Zero_631: -1719290295
+      Nega_Zero_632: 1089773253
+      Nega_Zero_633: -517097726
+      Nega_Zero_634: 477247818
+      Nega_Zero_635: -276209649
+      Nega_Zero_636: 1826588004
+      Nega_Zero_637: -420892088
+      Nega_Zero_638: -246673052
+      Nega_Zero_639: 654457751
+      Nega_Zero_64: 1295021261
+      Nega_Zero_640: -76046995
+      Nega_Zero_641: 1611897454
+      Nega_Zero_642: -824596416
+      Nega_Zero_643: -1600401944
+      Nega_Zero_644: 1276220164
+      Nega_Zero_645: -1361658177
+      Nega_Zero_646: -606701928
+      Nega_Zero_647: 182809714
+      Nega_Zero_648: 723106354
+      Nega_Zero_649: 1911906511
+      Nega_Zero_65: -1081476257
+      Nega_Zero_650: 1344729506
+      Nega_Zero_651: 1765124184
+      Nega_Zero_652: -1328299524
+      Nega_Zero_653: -1856453015
+      Nega_Zero_654: 606360669
+      Nega_Zero_655: -2073825905
+      Nega_Zero_656: 55316496
+      Nega_Zero_657: 767045305
+      Nega_Zero_658: 1192140494
+      Nega_Zero_659: -798159921
+      Nega_Zero_66: 1979290251
+      Nega_Zero_660: -803364808
+      Nega_Zero_661: -1931492151
+      Nega_Zero_662: -928680533
+      Nega_Zero_663: 1057742152
+      Nega_Zero_664: 2003515432
+      Nega_Zero_665: 108354314
+      Nega_Zero_666: 1704432187
+      Nega_Zero_667: 1661155022
+      Nega_Zero_668: -2119827996
+      Nega_Zero_669: 524908103
+      Nega_Zero_67: -1980788480
+      Nega_Zero_670: 1334113008
+      Nega_Zero_671: -1886475083
+      Nega_Zero_672: 729620157
+      Nega_Zero_673: -2144679365
+      Nega_Zero_674: 1126511429
+      Nega_Zero_675: -1042713061
+      Nega_Zero_676: -1065192964
+      Nega_Zero_677: -861227099
+      Nega_Zero_678: 1886650569
+      Nega_Zero_679: 874219901
+      Nega_Zero_68: -2083206196
+      Nega_Zero_680: -200149287
+      Nega_Zero_681: -40764499
+      Nega_Zero_682: 726803944
+      Nega_Zero_683: 1929793331
+      Nega_Zero_684: -277156150
+      Nega_Zero_685: 199193742
+      Nega_Zero_686: -828261746
+      Nega_Zero_687: 1184198966
+      Nega_Zero_688: 1225592534
+      Nega_Zero_689: 881198879
+      Nega_Zero_69: -625035151
+      Nega_Zero_690: -1652303221
+      Nega_Zero_691: 2101407930
+      Nega_Zero_692: 174994419
+      Nega_Zero_693: 160431768
+      Nega_Zero_694: 1422180421
+      Nega_Zero_695: -194518714
+      Nega_Zero_696: 420729899
+      Nega_Zero_697: 574467838
+      Nega_Zero_698: 494511838
+      Nega_Zero_699: -1218755754
+      Nega_Zero_7: -780134287
+      Nega_Zero_70: 1907688001
+      Nega_Zero_700: 2124875115
+      Nega_Zero_701: -1999405814
+      Nega_Zero_702: -2003120179
+      Nega_Zero_703: -879788274
+      Nega_Zero_704: -110176360
+      Nega_Zero_705: -986632745
+      Nega_Zero_706: 1009436311
+      Nega_Zero_707: 1153476333
+      Nega_Zero_708: -2091847264
+      Nega_Zero_709: 1426234698
+      Nega_Zero_71: 652440652
+      Nega_Zero_710: 1313589464
+      Nega_Zero_711: -1417655955
+      Nega_Zero_712: -852195510
+      Nega_Zero_713: 842774691
+      Nega_Zero_714: -1830884353
+      Nega_Zero_715: 1014652918
+      Nega_Zero_716: 418129606
+      Nega_Zero_717: 726100794
+      Nega_Zero_718: -1507587552
+      Nega_Zero_719: -1776227160
+      Nega_Zero_72: 1991649326
+      Nega_Zero_720: 2084128588
+      Nega_Zero_721: 121192966
+      Nega_Zero_722: -831704471
+      Nega_Zero_723: -751524533
+      Nega_Zero_724: -2117870349
+      Nega_Zero_725: -1601041927
+      Nega_Zero_726: 1765330908
+      Nega_Zero_727: 1306800144
+      Nega_Zero_728: -2054504182
+      Nega_Zero_729: -1140354284
+      Nega_Zero_73: 1720314941
+      Nega_Zero_730: 1092123231
+      Nega_Zero_731: -1475010947
+      Nega_Zero_732: 112974896
+      Nega_Zero_733: -447955158
+      Nega_Zero_734: 590062989
+      Nega_Zero_735: 1686774931
+      Nega_Zero_736: -1415457765
+      Nega_Zero_737: 1601103289
+      Nega_Zero_738: -491937997
+      Nega_Zero_739: -210353069
+      Nega_Zero_74: 525655522
+      Nega_Zero_75: 1535902040
+      Nega_Zero_76: 1565454562
+      Nega_Zero_77: -569740592
+      Nega_Zero_78: -1690712118
+      Nega_Zero_79: -1379691395
+      Nega_Zero_8: -832388995
+      Nega_Zero_80: -1706884430
+      Nega_Zero_81: -1876547503
+      Nega_Zero_82: 452561124
+      Nega_Zero_83: -1316549373
+      Nega_Zero_84: -862216033
+      Nega_Zero_85: -1146868473
+      Nega_Zero_86: 56091129
+      Nega_Zero_87: 2079397091
+      Nega_Zero_88: -2131988099
+      Nega_Zero_89: 1719373771
+      Nega_Zero_9: -1083940114
+      Nega_Zero_90: -856900448
+      Nega_Zero_91: -315006875
+      Nega_Zero_92: -1080131336
+      Nega_Zero_93: 1300556940
+      Nega_Zero_94: -907545033
+      Nega_Zero_95: -510507939
+      Nega_Zero_96: 1921354475
+      Nega_Zero_97: -541133968
+      Nega_Zero_98: -448640180
+      Nega_Zero_99: -1242972081
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
