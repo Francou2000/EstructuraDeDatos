@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1dff289e57bf54498b16ef2ddd95da6, type: 3}
   m_Name: MyStrongBullet
   m_EditorClassIdentifier: 
+  sortValue: 8
   objType: 2
   enemyRange: 0
   bulletOwner: 1

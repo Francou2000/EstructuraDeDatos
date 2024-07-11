@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1dff289e57bf54498b16ef2ddd95da6, type: 3}
   m_Name: EnemyMelee2
   m_EditorClassIdentifier: 
+  sortValue: 1
   objType: 0
   enemyRange: 1
   bulletOwner: 0
