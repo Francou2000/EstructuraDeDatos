@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class BossHealth : MonoBehaviour
 {
@@ -61,7 +62,7 @@ public class BossHealth : MonoBehaviour
 
         GameManager.Instance.SetBestTimes((int)timer, VerticesID.Level_6);
         yield return new WaitForSeconds(anim.GetCurrentAnimatorStateInfo(0).length);
-
+        SceneManager.LoadScene("WinScene");
         Destroy(this.gameObject);
     }
 }
