@@ -6,8 +6,9 @@ using UnityEngine;
 public class Boss_Run : StateMachineBehaviour
 {
     public float speed = 3f;
+    float currentSpeed;
     public float attackRange = 3f;
-    public float rangeAttackRange = 10f;
+    public float rangeAttackRange = 15f;
 
     Transform player;
     Rigidbody2D rb;
@@ -19,6 +20,7 @@ public class Boss_Run : StateMachineBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
         rb = animator.GetComponent<Rigidbody2D>();
         boss = animator.GetComponent<Boss>();
+        currentSpeed = speed;
 
     }
 
@@ -28,11 +30,12 @@ public class Boss_Run : StateMachineBehaviour
         boss.LookAtPlayer();
 
         Vector2 target = new Vector2(player.position.x, rb.position.y);
-        Vector2 newPos = Vector2.MoveTowards(rb.position, target, speed * Time.fixedDeltaTime);
+        Vector2 newPos = Vector2.MoveTowards(rb.position, target, currentSpeed * Time.fixedDeltaTime);
         rb.MovePosition(newPos);
 
         if (Vector2.Distance(player.position, rb.position) <= attackRange)
         {
+            currentSpeed = 0;
             animator.SetTrigger("Melee");
         }
 

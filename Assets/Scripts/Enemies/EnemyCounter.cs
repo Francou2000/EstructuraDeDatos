@@ -38,6 +38,7 @@ public class EnemyCounter : MonoBehaviour
         SceneManager.LoadScene("LevelSelection");
         GameManager.Instance.levelLock[2] = false;
         GameManager.Instance.levelLock[3] = false;
+        GameManager.Instance.levelLock[6] = false;
 
         GameManager.Instance.SetBestTimes((int)timer, VerticesID.Level_1);
 

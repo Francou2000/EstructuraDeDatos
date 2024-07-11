@@ -156,7 +156,7 @@ public class LS_PlayerMovement : MonoBehaviour
                 SceneManager.LoadScene("Level_5");
                 break;
             case VerticesID.Level_6:
-                SceneManager.LoadScene("Level_6");
+                SceneManager.LoadScene("Boss");
                 break;
         }
     }
