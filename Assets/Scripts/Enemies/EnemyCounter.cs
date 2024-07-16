@@ -26,7 +26,7 @@ public class EnemyCounter : MonoBehaviour
     private void Update()
     {
         timer += Time.deltaTime;
-        if (enemiesOnLevelLeft == 0)
+        if (enemiesOnLevelLeft <= 0)
         {
             StartCoroutine(FinishLevel());
         }
